@@ -3,7 +3,7 @@ title: "对加速主义保持清晰认知"
 enUrl: /speedupism-en
 date: 2020-11-12T21:44:34+08:00
 aliases:
-  - speedupism
+  - /speedupism
 ---
 
 > 这屋子太暗，须在这里开一个窗，大家一定不允许的。
