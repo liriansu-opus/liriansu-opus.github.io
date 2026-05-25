@@ -3,7 +3,7 @@ title: "[原则] 永远在路上"
 enUrl: /principle-infinite-game-en
 date: 2020-05-24T22:02:34+08:00
 aliases:
-  - principle-infinite-game
+  - /principle-infinite-game
 ---
 
 这天，坐在显示器前的我，
