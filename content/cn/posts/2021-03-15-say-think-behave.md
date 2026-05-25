@@ -1,5 +1,6 @@
 ---
 title: "我言、我知、我行"
+enUrl: /say-think-behave-en
 date: 2021-03-15T23:03:39+08:00
 aliases:
   - /say-think-behave

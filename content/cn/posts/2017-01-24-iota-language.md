@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 最精简的程序语言：Iota
+enUrl: /iota-language-en
 date: '2017-01-24 13:07:50'
 aliases:
   - /iota-language

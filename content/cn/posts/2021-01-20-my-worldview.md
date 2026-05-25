@@ -1,5 +1,6 @@
 ---
 title: "我的世界观"
+enUrl: /my-worldview-en
 date: 2021-01-20T22:31:35+08:00
 aliases:
   - /my-worldview

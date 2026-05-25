@@ -1,5 +1,6 @@
 ---
 title:     "一种轻量级的Http加密方式：Hawk"
+enUrl: /hawk-authentication-en
 date:      "2017-03-18 23:55:18"
 aliases:
   - /hawk-authentication

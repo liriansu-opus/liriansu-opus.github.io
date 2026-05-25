@@ -1,5 +1,6 @@
 ---
 title:     "如何优雅地使用Perl的常量模块"
+enUrl: /how-to-set-perl-constant-module-en
 date:      2015-07-25 20:56:06
 aliases:
   - /how-to-set-perl-constant-module

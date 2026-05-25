@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 我眼中的大佬们
+enUrl: /interesting-humans-en
 date: '2017-09-16 16:07:46'
 aliases:
   - /interesting-humans

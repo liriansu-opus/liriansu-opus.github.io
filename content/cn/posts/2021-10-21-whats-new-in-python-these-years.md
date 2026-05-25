@@ -1,5 +1,6 @@
 ---
 title: "Python 这几年都更新了啥"
+enUrl: /whats-new-in-python-these-years-en
 date: 2021-10-21T20:26:58+08:00
 aliases:
   - /whats-new-in-python-these-years

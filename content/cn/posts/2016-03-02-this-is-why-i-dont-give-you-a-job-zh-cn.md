@@ -1,5 +1,6 @@
 ---
 title:     "为什么我不招你当我的员工"
+enUrl: /this-is-why-i-dont-give-you-a-job-zh-cn-en
 date:      "2016-03-02 13:41:04"
 aliases:
   - /this-is-why-i-dont-give-you-a-job-zh-cn

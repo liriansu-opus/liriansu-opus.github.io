@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 怎么写Bug
+enUrl: /how-to-write-bugs-en
 date: '2017-09-20 19:49:38'
 aliases:
   - /how-to-write-bugs

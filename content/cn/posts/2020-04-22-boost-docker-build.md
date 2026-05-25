@@ -1,5 +1,6 @@
 ---
 title: "如何加速 Docker Build 构建过程"
+enUrl: /boost-docker-build-en
 date: 2020-04-22T22:28:53+08:00
 aliases:
   - /boost-docker-build

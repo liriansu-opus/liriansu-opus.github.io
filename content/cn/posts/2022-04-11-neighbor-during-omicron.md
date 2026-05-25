@@ -1,5 +1,6 @@
 ---
 title: "那个喊了十三声发物资的邻居"
+enUrl: /neighbor-during-omicron-en
 date: 2022-04-11T20:39:47+08:00
 aliases:
   - /neighbor-during-omicron

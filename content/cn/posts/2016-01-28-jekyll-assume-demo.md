@@ -1,5 +1,6 @@
 ---
 title:     "Jekyll-assume demo"
+enUrl: /jekyll-assume-demo-en
 date:      "2016-01-28 11:06:56"
 aliases:
   - /jekyll-assume-demo

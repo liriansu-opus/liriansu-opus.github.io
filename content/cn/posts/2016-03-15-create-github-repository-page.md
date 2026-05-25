@@ -1,5 +1,6 @@
 ---
 title:     "创建GitHub项目主页"
+enUrl: /create-github-repository-page-en
 date:      "2016-03-15 21:19:53"
 aliases:
   - /create-github-repository-page

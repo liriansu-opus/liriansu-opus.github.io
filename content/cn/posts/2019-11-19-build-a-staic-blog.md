@@ -1,5 +1,6 @@
 ---
 title: "搭建一个不需要自己开服务器的纯静态博客"
+enUrl: /build-a-staic-blog-en
 date: 2019-11-19T01:00:07+08:00
 aliases:
   - /build-a-staic-blog

@@ -1,5 +1,6 @@
 ---
 title: "杂思丨近日状况"
+enUrl: /thoughts-these-days-en
 date: 2021-04-28T20:14:38+08:00
 aliases:
   - /thoughts-these-days

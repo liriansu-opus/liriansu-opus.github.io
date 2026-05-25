@@ -1,5 +1,6 @@
 ---
 title: "再惠教会我的五句话"
+enUrl: /ways-in-zaihui-en
 date: 2022-02-24T18:00:00+08:00
 aliases:
   - /ways-in-zaihui

@@ -1,5 +1,6 @@
 ---
 title:     "积极面思考"
+enUrl: /about-active-thinking-en
 date:      "2019-01-23 23:25:20"
 aliases:
   - /about-active-thinking

@@ -1,5 +1,6 @@
 ---
 title: "昨天与朋友关于弹幕网站的聊天与感想"
+enUrl: /a-chat-about-acfun-en
 date: 2012-05-16T12:48:16+08:00
 aliases:
   - /a-chat-about-acfun

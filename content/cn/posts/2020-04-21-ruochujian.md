@@ -1,5 +1,6 @@
 ---
 title: "若初见与吴建国"
+enUrl: /2020-04-21-ruochujian-en
 date: 2020-04-21T21:37:59+08:00
 aliases:
   - /2020-04-21-ruochujian

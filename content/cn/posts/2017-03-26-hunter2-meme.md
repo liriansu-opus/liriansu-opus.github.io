@@ -1,5 +1,6 @@
 ---
 title:     "hunter2是什么梗"
+enUrl: /hunter2-meme-en
 date:      "2017-03-26 23:58:26"
 aliases:
   - /hunter2-meme

@@ -1,5 +1,6 @@
 ---
 title: "软件工程实践之网段管理"
+enUrl: /software-engineering-vpc-en
 date: 2020-12-13T21:48:22+08:00
 aliases:
   - /software-engineering-vpc

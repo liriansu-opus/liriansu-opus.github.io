@@ -1,5 +1,6 @@
 ---
 title: "我的妈妈苏琳"
+enUrl: /my-mom-sulin-en
 date: 2023-08-17T22:06:52+08:00
 aliases:
   - /my-mom-sulin

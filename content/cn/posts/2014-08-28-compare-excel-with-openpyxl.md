@@ -1,5 +1,6 @@
 ---
 title:     "用Openpyxl做两个Excel文件的比对"
+enUrl: /compare-excel-using-openpyxl-en
 date:      2014-08-28 10:31:08
 aliases:
   - /compare-excel-using-openpyxl

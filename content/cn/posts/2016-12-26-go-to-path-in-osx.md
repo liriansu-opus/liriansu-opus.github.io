@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 如何在Mac OSX中用Finder打开特定Path
+enUrl: /go-to-path-in-osx-en
 date: '2016-12-26 17:01:38'
 aliases:
   - /go-to-path-in-osx

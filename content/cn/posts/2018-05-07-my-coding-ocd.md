@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 我的一点强迫症
+enUrl: /my-coding-ocd-en
 date: '2018-05-07 22:07:44'
 aliases:
   - /my-coding-ocd

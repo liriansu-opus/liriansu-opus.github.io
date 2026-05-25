@@ -1,5 +1,6 @@
 ---
 title: "毕业五年的报告之技术"
+enUrl: /adult-life-code-en
 date: 2020-07-12T23:45:58+08:00
 aliases:
   - /adult-life-code

@@ -7,6 +7,39 @@
   <meta name="author" content="{{ .Site.Author.name }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
   <link rel="canonical" href="{{ .Permalink }}" />
+
+  {{- if eq .Site.Language.Lang "cn" -}}
+  {{- $enTarget := "" -}}
+  {{- if .IsHome -}}
+    {{- $enTarget = "/en/" -}}
+  {{- else if .Params.enUrl -}}
+    {{- $enTarget = .Params.enUrl -}}
+  {{- else if eq .RelPermalink "/about/" -}}
+    {{- $enTarget = "/en/about/" -}}
+  {{- end -}}
+  {{- if $enTarget }}
+  <link rel="alternate" hreflang="en" href="{{ $enTarget }}" />
+  <script>
+    (function () {
+      try {
+        var search = window.location.search || "";
+        if (search.indexOf("lang=cn") !== -1) {
+          try { sessionStorage.setItem("lang-pref", "cn"); } catch (e) {}
+          return;
+        }
+        if (sessionStorage.getItem("lang-pref") === "cn") { return; }
+        var lang = (navigator.language || navigator.userLanguage || "").toLowerCase();
+        if (lang.indexOf("en") === 0) {
+          window.location.replace("{{ $enTarget }}");
+        }
+      } catch (e) {}
+    })();
+  </script>
+  {{- end -}}
+  {{- end -}}
+  {{- if and (eq .Site.Language.Lang "en") .Params.zhUrl -}}
+  <link rel="alternate" hreflang="zh" href="{{ .Params.zhUrl }}" />
+  {{- end -}}
   {{- if .Site.Params.favicon -}}
   <link rel="shortcut icon" href="{{ .Site.Params.favicon }}" type="image/x-png" />
   {{- end -}}

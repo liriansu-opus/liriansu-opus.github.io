@@ -1,5 +1,6 @@
 ---
 title: "Jeff Ehco Facts"
+enUrl: /jeff-ehco-facts-en
 date: 2021-06-07T22:07:09+08:00
 aliases:
   - /jeff-ehco-facts

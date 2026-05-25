@@ -1,5 +1,6 @@
 ---
 title: "2021, 我微博没了"
+enUrl: /kill-weibo-en
 date: 2022-01-16T19:52:27+08:00
 aliases:
   - /kill-weibo

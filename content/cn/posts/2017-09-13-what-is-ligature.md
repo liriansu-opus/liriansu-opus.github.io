@@ -1,5 +1,6 @@
 ---
 title:     "什么是连字 (ligature)"
+enUrl: /what-is-ligature-en
 date:      "2017-09-13 22:45:39"
 aliases:
   - /what-is-ligature

@@ -1,5 +1,6 @@
 ---
 title:     "[轶事] 为什么 requests 不是 python 标准库？"
+enUrl: /anecdote-why-requests-not-standard-en
 date:      "2019-10-30 22:32:20"
 aliases:
   - /anecdote-why-requests-not-standard

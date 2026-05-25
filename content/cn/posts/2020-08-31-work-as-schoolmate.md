@@ -1,5 +1,6 @@
 ---
 title: "神通中学二三事"
+enUrl: /work-as-schoolmate-en
 date: 2020-08-31T19:45:02+08:00
 aliases:
   - /work-as-schoolmate

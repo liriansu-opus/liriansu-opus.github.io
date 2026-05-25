@@ -1,5 +1,6 @@
 ---
 title:     "用vundle来管理vim插件"
+enUrl: /use-vundle-for-dotvim-en
 date:      "2016-12-18 02:22:16"
 aliases:
   - /use-vundle-for-dotvim

@@ -1,5 +1,6 @@
 ---
 title:     "如何用Windows命令行统计文件行数"
+enUrl: /how-to-calculate-file-lines-in-windows-en
 date:      "2016-04-15 22:13:15"
 aliases:
   - /how-to-calculate-file-lines-in-windows

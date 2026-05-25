@@ -1,5 +1,6 @@
 ---
 title:     "为什么我要写博客"
+enUrl: /why-im-blogging-en
 date:      2015-09-23
 aliases:
   - /why-im-blogging

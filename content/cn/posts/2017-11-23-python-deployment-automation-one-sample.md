@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Python项目自动化部署之一：举个栗子
+enUrl: /python-deployment-automation-one-sample-en
 date: '2017-11-23 16:49:57'
 aliases:
   - /python-deployment-automation-one-sample

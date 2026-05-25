@@ -1,5 +1,6 @@
 ---
 title:     "我的好友陈伟杰"
+enUrl: /my-friend-edward-en
 date:      "2014-07-20 22:55:00"
 aliases:
   - /my-friend-edward

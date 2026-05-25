@@ -1,5 +1,6 @@
 ---
 title: "毕业五年的报告之回忆"
+enUrl: /adult-life-memories-en
 date: 2020-07-05T21:46:03+08:00
 aliases:
   - /adult-life-memories

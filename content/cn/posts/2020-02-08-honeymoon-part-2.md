@@ -1,5 +1,6 @@
 ---
 title: "旅行之二·do things matters"
+enUrl: /honeymoon-part-2-en
 date: 2020-02-08T21:48:32+01:00
 aliases:
   - /honeymoon-part-2

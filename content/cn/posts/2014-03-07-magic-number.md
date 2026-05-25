@@ -1,5 +1,6 @@
 ---
 title:     "0x5f3759df 一个神奇的数字"
+enUrl: /magic-number-en
 date:      "2014-03-07 14:11:31"
 aliases:
   - /magic-number

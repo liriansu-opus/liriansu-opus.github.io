@@ -1,5 +1,6 @@
 ---
 title:     "怎么使用搜索引擎"
+enUrl: /how-to-google-en
 date:      "2017-11-19 21:52:07"
 aliases:
   - /how-to-google
