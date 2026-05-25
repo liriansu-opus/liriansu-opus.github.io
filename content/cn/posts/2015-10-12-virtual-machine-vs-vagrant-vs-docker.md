@@ -1,5 +1,6 @@
 ---
 title:     "Virtual Machine, Vagrant, Docker的区别"
+enUrl: /virtual-machine-vs-vagrant-vs-docker-en
 date:      2015-10-12 12:49:55
 aliases:
   - /virtual-machine-vs-vagrant-vs-docker

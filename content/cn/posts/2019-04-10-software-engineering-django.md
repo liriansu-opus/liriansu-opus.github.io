@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 软件工程实践之 django/python
+enUrl: /software-engineering-django-en
 date: '2019-04-10 22:09:55'
 aliases:
   - /software-engineering-django

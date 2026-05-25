@@ -1,5 +1,6 @@
 ---
 title:     "在Windows上安装pip"
+enUrl: /install-pip-on-windows-en
 date:      "2016-05-18 21:39:29"
 aliases:
   - /install-pip-on-windows

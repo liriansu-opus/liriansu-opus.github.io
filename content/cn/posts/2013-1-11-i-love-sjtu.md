@@ -1,5 +1,6 @@
 ---
 title: "妈的，交大"
+enUrl: /i-love-sjtu-en
 date: 2013-01-11 19:57:00
 aliases:
   - /i-love-sjtu

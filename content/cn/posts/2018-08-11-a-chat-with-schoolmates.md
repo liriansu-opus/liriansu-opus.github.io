@@ -1,5 +1,6 @@
 ---
 title:     "公司文化、工资期权、开发体验——一线程序员的喜怒哀乐"
+enUrl: /a-chat-with-schoolmates-en
 date:      "2018-08-11 23:55:50"
 aliases:
   - /a-chat-with-schoolmates

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 关于我
+enUrl: /en/about/
 aliases:
   - /about/
 comments:

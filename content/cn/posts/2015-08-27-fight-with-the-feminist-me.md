@@ -1,5 +1,6 @@
 ---
 title:     "我和女权的我打起来了"
+enUrl: /fight-with-the-feminist-me-en
 date:      "2015-08-27 20:28:00"
 aliases:
   - /fight-with-the-feminist-me

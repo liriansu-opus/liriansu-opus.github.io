@@ -1,5 +1,6 @@
 ---
 title:     "搭建舒适的 Windows 开发环境"
+enUrl: /windows-dev-env-en
 date:      "2017-03-24 02:00:55"
 aliases:
   - /windows-dev-env

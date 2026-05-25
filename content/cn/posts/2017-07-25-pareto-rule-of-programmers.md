@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 程序员的二八定律
+enUrl: /pareto-rule-of-programmers-en
 date: '2017-07-25 23:15:51'
 aliases:
   - /pareto-rule-of-programmers

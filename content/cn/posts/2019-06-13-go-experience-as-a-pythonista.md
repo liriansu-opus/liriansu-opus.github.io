@@ -1,5 +1,6 @@
 ---
 title:     "Pythonista 的 Go 之旅"
+enUrl: /go-experience-as-a-pythonista-en
 date:      "2019-06-13 01:10:49"
 aliases:
   - /go-experience-as-a-pythonista

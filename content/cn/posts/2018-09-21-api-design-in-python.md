@@ -1,5 +1,6 @@
 ---
 title:     "优雅的 Python 接口设计"
+enUrl: /api-design-in-python-en
 date:      "2018-09-21 20:57:46"
 aliases:
   - /api-design-in-python

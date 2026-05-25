@@ -1,6 +1,7 @@
 ---
 layout: post
 title: GitHub 要怎么玩
+enUrl: /how-i-use-github-en
 date: '2017-07-18 23:15:49'
 aliases:
   - /how-i-use-github

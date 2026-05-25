@@ -1,5 +1,6 @@
 ---
 title: "软件工程实践之 Git 开发流"
+enUrl: /software-engineering-git-workflow-en
 date: 2020-01-14T21:39:31+08:00
 aliases:
   - /software-engineering-git-workflow

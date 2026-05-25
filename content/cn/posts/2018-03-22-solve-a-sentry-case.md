@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 破案·Sentry迷云
+enUrl: /solve-a-sentry-case-en
 date: '2018-03-22 20:14:08'
 aliases:
   - /solve-a-sentry-case

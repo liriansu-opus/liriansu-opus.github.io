@@ -1,5 +1,6 @@
 ---
 title:     "Javascript之路"
+enUrl: /learning-javascript-en
 date:      2015-12-21 17:26:52
 aliases:
   - /learning-javascript

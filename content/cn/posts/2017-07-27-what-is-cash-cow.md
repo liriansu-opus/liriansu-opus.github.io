@@ -1,5 +1,6 @@
 ---
 title:     "现金牛是什么梗？"
+enUrl: /what-is-cash-cow-en
 date:      "2017-07-27 22:31:18"
 aliases:
   - /what-is-cash-cow

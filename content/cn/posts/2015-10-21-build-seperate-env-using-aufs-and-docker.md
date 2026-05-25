@@ -1,5 +1,6 @@
 ---
 title:     "利用AUFS和Docker搭建多个私有开发环境"
+enUrl: /build-seperate-env-using-aufs-and-docker-en
 date:      2015-10-21 14:55:24
 aliases:
   - /build-seperate-env-using-aufs-and-docker

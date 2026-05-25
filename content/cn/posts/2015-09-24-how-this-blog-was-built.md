@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 这篇博客是怎么建成的
+enUrl: /how-this-blog-was-built-en
 date: 2015-09-24T20:26:17.000Z
 aliases:
   - /how-this-blog-was-built

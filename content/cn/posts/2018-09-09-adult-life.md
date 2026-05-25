@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 毕业三年的报告
+enUrl: /adult-life-en
 date: '2018-09-09 19:46:37'
 aliases:
   - /adult-life

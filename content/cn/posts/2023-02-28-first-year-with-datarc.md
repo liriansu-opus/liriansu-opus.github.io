@@ -1,5 +1,6 @@
 ---
 title: "在北极九章工作的这一年"
+enUrl: /first-year-with-datarc-en
 date: 2023-02-28T22:09:15+08:00
 aliases:
   - /first-year-with-datarc

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 视差
+enUrl: /your-own-sight-en
 date: '2017-12-04 22:29:14'
 aliases:
   - /your-own-sight

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: HR就讨厌我们这样的技术，今年一个offer都没发
+enUrl: /what-a-hard-backend-interview-en
 date: '2017-03-08 20:44:40'
 aliases:
   - /what-a-hard-backend-interview

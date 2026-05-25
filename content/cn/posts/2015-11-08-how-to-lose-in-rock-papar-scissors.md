@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 石头剪刀布中的求输策略
+enUrl: /how-to-lose-in-rock-paper-scissors-en
 date: 2015-11-08T21:01:28.000Z
 aliases:
   - /how-to-lose-in-rock-paper-scissors

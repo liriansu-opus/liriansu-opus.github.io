@@ -1,5 +1,6 @@
 ---
 title: "HR与程序员的日常（三）：人才发展"
+enUrl: /limited-position-en
 date: 2021-09-09T22:00:38+08:00
 aliases:
   - /limited-position

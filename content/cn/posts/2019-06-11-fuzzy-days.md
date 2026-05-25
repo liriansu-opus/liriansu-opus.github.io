@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 密度不高地生活了一下子
+enUrl: /fuzzy-days-en
 date: '2019-06-11 22:50:03'
 aliases:
   - /fuzzy-days

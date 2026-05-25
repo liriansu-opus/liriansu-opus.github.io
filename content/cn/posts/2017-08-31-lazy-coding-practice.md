@@ -1,5 +1,6 @@
 ---
 title:     "写代码怎么偷懒？多练练"
+enUrl: /lazy-coding-practice-en
 date:      "2017-08-31 20:25:12"
 aliases:
   - /lazy-coding-practice

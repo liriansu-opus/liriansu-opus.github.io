@@ -1,5 +1,6 @@
 ---
 title:     "技术人员要怎么选择自己的职业发展道路"
+enUrl: /company-stategy-en
 date:      "2018-10-25 23:35:26"
 aliases:
   - /company-stategy

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 为什么我喜欢工程师文化
+enUrl: /engineer-culture-en
 date: '2018-07-26 22:38:44'
 aliases:
   - /engineer-culture

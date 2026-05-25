@@ -1,5 +1,6 @@
 ---
 title:     "我是怎么实现《用弹幕玩GBA游戏》的"
+enUrl: /play-gba-with-danmaku-en
 date:      "2018-01-06 18:58:33"
 aliases:
   - /play-gba-with-danmaku

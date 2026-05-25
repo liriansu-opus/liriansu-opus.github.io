@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 人类真愚蠢——《南方公园》
+enUrl: /south-park-intro-en
 date: '2017-08-05 19:29:14'
 aliases:
   - /south-park-intro

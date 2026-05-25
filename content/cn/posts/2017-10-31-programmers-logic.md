@@ -1,5 +1,6 @@
 ---
 title:     "程序员之逻辑"
+enUrl: /programmers-logic-en
 date:      "2017-10-31 22:05:35"
 aliases:
   - /programmers-logic

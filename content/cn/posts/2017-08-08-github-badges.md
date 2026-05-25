@@ -1,5 +1,6 @@
 ---
 title:     "GitHub上的小标签有什么好玩的"
+enUrl: /github-badges-en
 date:      "2017-08-08 23:10:01"
 aliases:
   - /github-badges

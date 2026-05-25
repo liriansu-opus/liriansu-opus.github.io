@@ -1,5 +1,6 @@
 ---
 title: "我的奶奶"
+enUrl: /my-grandma-en
 date: 2021-05-31T22:37:13+08:00
 aliases:
   - /my-grandma

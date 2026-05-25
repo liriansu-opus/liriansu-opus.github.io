@@ -1,5 +1,6 @@
 ---
 title:     "我的VR初体验"
+enUrl: /my-first-vr-experience-en
 date:      "2016-02-27 21:08:19"
 aliases:
   - /my-first-vr-experience

@@ -1,5 +1,6 @@
 ---
 title:     "读博客和写博客"
+enUrl: /read-blogs-to-write-blogs-en
 date:      "2016-02-29 13:27:52"
 aliases:
   - /read-blogs-to-write-blogs

@@ -1,5 +1,6 @@
 ---
 title:     "没错，DNS TTL 字段就是骗你的"
+enUrl: /stupid-dns-ttl-en
 date:      "2019-10-29 21:49:42"
 aliases:
   - /stupid-dns-ttl

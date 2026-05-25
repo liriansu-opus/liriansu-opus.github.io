@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 我的好友柳宁宁
+enUrl: /my-friend-ldsink-en
 date: '2018-03-03 20:39:48'
 aliases:
   - /my-friend-ldsink

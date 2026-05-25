@@ -1,5 +1,6 @@
 ---
 title:     "Jekyll build fail的解决办法"
+enUrl: /jekyll-build-fail-solution-en
 date:      "2016-01-29 23:24:45"
 aliases:
   - /jekyll-build-fail-solution

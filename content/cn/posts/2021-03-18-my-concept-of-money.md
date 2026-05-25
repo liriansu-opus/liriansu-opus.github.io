@@ -1,5 +1,6 @@
 ---
 title: "我的金钱观"
+enUrl: /my-concept-of-money-en
 date: 2021-03-18T20:41:35+08:00
 aliases:
   - /my-concept-of-money

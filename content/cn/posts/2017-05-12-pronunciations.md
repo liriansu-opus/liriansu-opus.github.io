@@ -1,5 +1,6 @@
 ---
 title:     "Vim, Tmux, Zsh怎么读"
+enUrl: /pronunciations-en
 date:      "2017-05-12 22:41:02"
 aliases:
   - /pronunciations

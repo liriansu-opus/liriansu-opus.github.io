@@ -1,5 +1,6 @@
 ---
 title: "一厘米的权力"
+enUrl: /ownership-en
 date: 2020-11-11T20:53:43+08:00
 aliases:
   - /ownership

@@ -1,5 +1,6 @@
 ---
 title:     "写程序的我的性格"
+enUrl: /my-programmer-habits-en
 date:      "2017-07-02 00:20:23"
 aliases:
   - /my-programmer-habits

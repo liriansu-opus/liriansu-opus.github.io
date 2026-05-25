@@ -1,5 +1,6 @@
 ---
 title: "毕业五年的报告之未来"
+enUrl: /adult-life-future-en
 date: 2020-11-15T21:00:54+08:00
 aliases:
   - /adult-life-future

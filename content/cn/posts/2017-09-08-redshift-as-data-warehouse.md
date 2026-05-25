@@ -1,5 +1,6 @@
 ---
 title:     "数据仓库解决方案 RedShift 入坑指南"
+enUrl: /redshift-as-data-warehouse-en
 date:      "2017-09-08 22:59:08"
 aliases:
   - /redshift-as-data-warehouse

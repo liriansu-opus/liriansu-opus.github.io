@@ -1,5 +1,6 @@
 ---
 title: "杂思丨屁股决定脑袋"
+enUrl: /thoughts-from-position-en
 date: 2022-09-26T20:00:36+08:00
 aliases:
   - /thoughts-from-position

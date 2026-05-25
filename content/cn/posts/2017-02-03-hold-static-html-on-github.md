@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 用GitHub托管静态HTML页面
+enUrl: /hold-static-html-on-github-en
 date: '2017-02-03 21:59:54'
 aliases:
   - /hold-static-html-on-github
