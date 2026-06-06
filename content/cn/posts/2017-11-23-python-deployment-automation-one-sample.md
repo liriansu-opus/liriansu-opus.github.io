@@ -39,7 +39,7 @@ comments:
   - author:
       type: github
       displayName: LKI
-      url: 'https://github.com/LKI'
+      url: 'https://github.com/liriansu-opus'
       picture: 'https://avatars0.githubusercontent.com/u/3286092?v=4&s=73'
     content: >-
       @messense

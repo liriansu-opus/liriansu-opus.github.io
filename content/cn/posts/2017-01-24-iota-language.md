@@ -8,7 +8,7 @@ comments:
   - author:
       type: github
       displayName: LKI
-      url: 'https://github.com/LKI'
+      url: 'https://github.com/liriansu-opus'
       picture: 'https://avatars0.githubusercontent.com/u/3286092?v=4&s=73'
     content: >-
       &#x6211;&#x53D1;&#x73B0;&#x8FD9;&#x91CC;&#x7684;&#x8BBA;&#x8BC1;&#x5C11;&#x4E86;&#x5173;&#x952E;&#x7684;&#x4E00;&#x6B65;&#xFF1A;
