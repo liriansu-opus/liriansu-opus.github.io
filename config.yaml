@@ -23,7 +23,7 @@ params:
     - name: about
       link: /about
     - name: github
-      link: https://github.com/LKI
+      link: https://github.com/liriansu-opus
     - name: zhihu
       link: https://www.zhihu.com/people/liriansu
     - name: rss

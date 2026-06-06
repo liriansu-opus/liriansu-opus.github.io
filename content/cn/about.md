@@ -7,7 +7,7 @@ comments:
   - author:
       type: full
       displayName: LKI
-      url: 'https://github.com/LKI'
+      url: 'https://github.com/liriansu-opus'
       picture: 'https://avatars.githubusercontent.com/u/3286092?v=3&s=73'
     content: '&#x5E05;&#x6C14;&#x7684;&#x8BC4;&#x8BBA;&#x3002;'
     date: 2016-12-26T15:37:42.753Z
@@ -86,7 +86,7 @@ comments:
       url: 'https://github.com/shengbinxu'
       picture: 'https://avatars2.githubusercontent.com/u/3232275?v=4&s=73'
     content: >-
-      &#x4E0D;&#x9519;&#x3002;https://github.com/LKI/chinese-calendar
+      &#x4E0D;&#x9519;&#x3002;https://github.com/liriansu-opus/chinese-calendar
       &#x4F60;&#x7684;&#x8FD9;&#x4E2A;&#x9879;&#x76EE;&#x7ED9;&#x6211;&#x7684;&#x5DE5;&#x4F5C;&#x5E26;&#x6765;&#x4E86;&#x633A;&#x5927;&#x7684;&#x5E2E;&#x52A9;
     date: 2018-10-30T03:54:12.723Z
   - author:
@@ -274,7 +274,7 @@ Life is short, I use Python.
 [jekyll.com]: https://jekyllrb.com/
 [kezaihui]: https://www.kezaihui.com/
 [ldsink]: /my-friend-ldsink
-[lki.github.io]: https://github.com/LKI/lki.github.io
+[lki.github.io]: https://github.com/liriansu-opus/liriansu-opus.github.io
 [logic]: /programmers-logic
 [play]: /play-gba-with-danmaku
 [my-gf]: /how-to-lose-in-rock-paper-scissors
@@ -291,8 +291,8 @@ Life is short, I use Python.
 [win-env]: /windows-dev-env
 [xkcd-246]: https://imgs.xkcd.com/comics/labyrinth_puzzle.png
 [zhoucheng]: https://www.zhihu.com/people/ldsink/activities
-[myconf]: https://github.com/LKI/LKI
-[chinese-calendar]: https://github.com/LKI/chinese-calendar
+[myconf]: https://github.com/liriansu-opus/liriansu-opus
+[chinese-calendar]: https://github.com/liriansu-opus/chinese-calendar
 [zhihu-zaihui]: https://www.zhihu.com/question/19596230/answer/152193862
 [arcticdata]: https://datarc.cn/
 [ways-in-zaihui]: /ways-in-zaihui

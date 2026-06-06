@@ -299,7 +299,7 @@ _直播时的画面截图_
 [py-bot]: https://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117
 [keyboard]: https://github.com/boppreh/keyboard
 [pywin32-install]: https://stackoverflow.com/questions/4863056/how-to-install-pywin32-module-in-windows-7
-[danmaboy]: https://github.com/LKI/danmaboy
-[init.py]: https://github.com/LKI/danmaboy/blob/master/danmaboy/__init__.py
+[danmaboy]: https://github.com/liriansu-opus/danmaboy
+[init.py]: https://github.com/liriansu-opus/danmaboy/blob/master/danmaboy/__init__.py
 [screen]: /assets/pics/screen.png
 

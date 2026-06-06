@@ -151,10 +151,10 @@ disqus的便利之处在于构建简单，
 
 [disqus]:               https://disqus.com/
 [built-blog]:           /how-this-blog-was-built
-[disqus-template]:      https://github.com/LKI/lki.github.io/blob/b1c59b15a83fe0e0c9c2af55b15e1d3fa107c551/_includes/comments.html
+[disqus-template]:      https://github.com/liriansu-opus/liriansu-opus.github.io/blob/b1c59b15a83fe0e0c9c2af55b15e1d3fa107c551/_includes/comments.html
 [duoshuo]:              https://duoshuo.com/
 [commentit]:            https://commentit.io/getting-started
-[commentit-template]:   https://github.com/LKI/lki.github.io/blob/eb8e55e54fafc4effeeed8ed24ddae142829372b/_includes/comments.html
+[commentit-template]:   https://github.com/liriansu-opus/liriansu-opus.github.io/blob/eb8e55e54fafc4effeeed8ed24ddae142829372b/_includes/comments.html
 [commentit-config]:     https://commentit.io/settings?master=true&group=true
-[contributors]:         https://github.com/LKI/lki.github.io/graphs/contributors
+[contributors]:         https://github.com/liriansu-opus/liriansu-opus.github.io/graphs/contributors
 

@@ -93,4 +93,4 @@ comments:
 [duoshuo]:       https://duoshuo.com/
 [disqus]:        https://disqus.com/
 [disqus-jekyll]: https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions
-[github-render]: https://github.com/LKI/blogs/issues/3
+[github-render]: https://github.com/liriansu-opus/blogs/issues/3

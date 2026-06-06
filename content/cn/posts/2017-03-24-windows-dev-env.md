@@ -131,7 +131,7 @@ choco install -y 7zip everything git jdk8 nodejs npm python2 putty vagrant virtu
 [git-scm]: https://git-scm.com/downloads
 [jetbrains]: https://www.jetbrains.com/
 [mingw]: https://www.mingw.org/
-[myconf]: https://github.com/LKI/myconf
+[myconf]: https://github.com/liriansu-opus/myconf
 [no-baidu]: https://coolshell.cn/articles/9308.html
 [putty]: https://www.putty.org/
 [vagrant]: https://www.vagrantup.com/

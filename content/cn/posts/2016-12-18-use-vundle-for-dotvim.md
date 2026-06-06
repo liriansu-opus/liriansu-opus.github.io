@@ -75,6 +75,6 @@ dotvim地址在[github上][dotvim]。
 
 [vundle]:          https://github.com/VundleVim/Vundle.vim
 [pathogen]:        https://github.com/tpope/vim-pathogen
-[dotvim-justin]:   https://github.com/LKI/dotvim
+[dotvim-justin]:   https://github.com/liriansu-opus/dotvim
 [tpope]:           https://github.com/tpope
-[dotvim]:          https://github.com/LKI/dotvim
+[dotvim]:          https://github.com/liriansu-opus/dotvim

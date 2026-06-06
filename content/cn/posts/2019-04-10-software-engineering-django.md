@@ -17,7 +17,7 @@ comments:
   - author:
       type: github
       displayName: LKI
-      url: 'https://github.com/LKI'
+      url: 'https://github.com/liriansu-opus'
       picture: 'https://avatars0.githubusercontent.com/u/3286092?v=4&s=73'
     content: >-
       @hanyce &#x6CA1;&#x9519;&#xFF01;&#x7EBF;&#x6027;&#x7684; commit
