@@ -4,7 +4,7 @@
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="author" content="{{ .Site.Author.name }}" />
+  <meta name="author" content="{{ .Site.Params.author.name }}" />
   <meta property="og:url" content="{{ .Permalink }}" />
   <link rel="canonical" href="{{ .Permalink }}" />
 
@@ -22,12 +22,23 @@
   <script>
     (function () {
       try {
-        var search = window.location.search || "";
-        if (search.indexOf("lang=cn") !== -1) {
-          try { sessionStorage.setItem("lang-pref", "cn"); } catch (e) {}
+        // Explicit ?lang= overrides everything and is remembered persistently.
+        var qs = window.location.search || "";
+        if (qs.indexOf("lang=cn") !== -1) {
+          try { localStorage.setItem("lang-pref", "cn"); } catch (e) {}
           return;
         }
-        if (sessionStorage.getItem("lang-pref") === "cn") { return; }
+        if (qs.indexOf("lang=en") !== -1) {
+          try { localStorage.setItem("lang-pref", "en"); } catch (e) {}
+          window.location.replace("{{ $enTarget }}");
+          return;
+        }
+        // A manual language choice (saved on click) always wins over browser language.
+        var pref = null;
+        try { pref = localStorage.getItem("lang-pref"); } catch (e) {}
+        if (pref === "cn") { return; }
+        if (pref === "en") { window.location.replace("{{ $enTarget }}"); return; }
+        // No manual choice yet: fall back to browser language.
         var lang = (navigator.language || navigator.userLanguage || "").toLowerCase();
         if (lang.indexOf("en") === 0) {
           window.location.replace("{{ $enTarget }}");

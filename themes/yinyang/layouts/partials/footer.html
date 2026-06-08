@@ -1,4 +1,4 @@
-{{ $curLanguageName := .Site.Language.LanguageName }}
+{{ $lang := .Site.Language.Lang }}
 
 <div class="site-footer">
   <div class="site-footer-left">
@@ -11,12 +11,36 @@
   </div>
 
   <div class="site-footer-right">
-    {{ range .Site.Languages -}}
-    {{ if ne .LanguageName $curLanguageName }}
+    {{- if eq $lang "cn" -}}
+    {{/* On a CN page, offer the matching EN page; remember the choice so the auto-redirect honors it. */}}
+    {{- $enTarget := "" -}}
+    {{- if .IsHome -}}
+      {{- $enTarget = "/en/" -}}
+    {{- else if .Params.enUrl -}}
+      {{- $enTarget = .Params.enUrl -}}
+    {{- else if eq .RelPermalink "/about/" -}}
+      {{- $enTarget = "/en/about/" -}}
+    {{- end -}}
+    {{- if $enTarget }}
     <div class="site-footer-item">
-      <a href="/{{ .Lang }}/">{{ .LanguageName }}</a>
+      <a href="{{ $enTarget }}" onclick="try{localStorage.setItem('lang-pref','en')}catch(e){}">English</a>
     </div>
-    {{ end }}
-    {{ end }}
+    {{- end -}}
+    {{- else if eq $lang "en" -}}
+    {{/* On an EN page, offer the matching CN page; saving lang-pref=cn defeats the auto-redirect. */}}
+    {{- $zhTarget := "" -}}
+    {{- if .IsHome -}}
+      {{- $zhTarget = "/" -}}
+    {{- else if .Params.zhUrl -}}
+      {{- $zhTarget = .Params.zhUrl -}}
+    {{- else if eq .RelPermalink "/en/about/" -}}
+      {{- $zhTarget = "/about/" -}}
+    {{- end -}}
+    {{- if $zhTarget }}
+    <div class="site-footer-item">
+      <a href="{{ $zhTarget }}" onclick="try{localStorage.setItem('lang-pref','cn')}catch(e){}">中文</a>
+    </div>
+    {{- end -}}
+    {{- end -}}
   </div>
 </div>
