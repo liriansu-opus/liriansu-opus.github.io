@@ -1,5 +1,3 @@
-author:
-  name: Lirian Su
 baseURL: https://liriansu.com/
 defaultContentLanguage: cn
 markup:
@@ -7,17 +5,21 @@ markup:
   goldmark:
     renderer:
       hardWraps: true
-languageCode: en-us
+      unsafe: true
 languages:
   cn:
     contentDir: content/cn
-    languageName: 中文
+    label: 中文
+    locale: zh-CN
     weight: 1
   en:
     contentDir: content/en
-    languageName: English
+    label: English
+    locale: en-US
     weight: 2
 params:
+  author:
+    name: Lirian Su
   headTitle: Lirian Su
   socials:
     - name: about
