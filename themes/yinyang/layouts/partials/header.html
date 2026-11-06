@@ -1,13 +1,21 @@
 <header>
-  <div class="signatures site-title">
-    <a href="{{ .Site.LanguagePrefix }}/">{{ or .Site.Params.headTitle .Site.Params.author.name }}</a>
-  </div>
+  {{- $home := "/" | relLangURL -}}
+  {{- $name := or site.Params.headTitle site.Params.author.name }}
+  {{- if .IsHome }}
+  <h1 class="signatures site-title"><a href="{{ $home }}">{{ $name }}</a></h1>
+  {{- else }}
+  <div class="signatures site-title"><a href="{{ $home }}">{{ $name }}</a></div>
+  {{- end }}
 </header>
 <div class="row end-xs site-header-right">
-  {{ range .Site.Params.socials }}
+  {{- range site.Params.socials }}
   <div class="site-header-item">
-    <a href="{{ .link }}" target="_blank">{{ .name }}</a>
+    {{- if hasPrefix .link "http" }}
+    <a href="{{ .link }}" target="_blank" rel="me noopener">{{ .name }}</a>
+    {{- else }}
+    <a href="{{ .link | relLangURL }}">{{ .name }}</a>
+    {{- end }}
   </div>
-  {{ end }}
+  {{- end }}
 </div>
 <div class="header-line"></div>

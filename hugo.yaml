@@ -1,0 +1,57 @@
+baseURL: https://liriansu.com/
+defaultContentLanguage: cn
+# Only home pages and posts are real pages. Sections and taxonomies have no
+# template, so they only produced stray XML at /posts/, /tags/ and /categories/.
+disableKinds:
+  - section
+  - taxonomy
+  - term
+enableRobotsTXT: true
+hasCJKLanguage: true
+theme: yinyang
+# Most posts have dates without an offset; they were written in UTC+8.
+timeZone: Asia/Shanghai
+title: 浮云计算
+services:
+  rss:
+    limit: 20
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      hardWraps: true
+      unsafe: true
+languages:
+  cn:
+    contentDir: content/cn
+    label: 中文
+    locale: zh-CN
+    weight: 1
+    params:
+      tagline: Lirian Su 的博客
+      description: Lirian Su（苏子岳）的个人博客，写软件工程、Python、后端开发和职业成长，也记录生活与家人。
+  en:
+    contentDir: content/en
+    label: English
+    locale: en-US
+    title: Lirian Su's Blog
+    weight: 2
+    params:
+      description: Lirian Su's personal blog on software engineering, Python, backend development and career growth, with notes on life and family.
+params:
+  author:
+    name: Lirian Su
+    alternateName: 苏子岳
+  headTitle: Lirian Su
+  mainSections:
+    - posts
+  ogImage: /assets/og-default.png
+  socials:
+    - name: about
+      link: /about/
+    - name: github
+      link: https://github.com/liriansu-opus
+    - name: zhihu
+      link: https://www.zhihu.com/people/liriansu
+    - name: rss
+      link: /index.xml

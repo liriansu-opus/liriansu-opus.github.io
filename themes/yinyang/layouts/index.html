@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.Language.Locale }}">
 {{ partial "head.html" . }}
 
 <body>
@@ -10,12 +10,12 @@
         <div id="posts-list">
           {{ range (where site.RegularPages "Type" "in" site.Params.mainSections).GroupByDate "2006" -}}
           <section>
-            <h1 class="site-date-catalog">{{ .Key }}</h1>
+            <h2 class="site-date-catalog">{{ .Key }}</h2>
 
             {{ range .Pages }}
             <div class="row post-line">
               <div class="posts-date col-xs-2">
-                <time datetime="{{ .Date.Format "2006-01-02 15:04:05 MST" }}">{{ .Date.Format "01-02"}}</time>
+                <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format "01-02"}}</time>
               </div>
               <div class="posts-title col-xs-10">
                 <a href="{{ .RelPermalink }}">{{ .Title }}</a>

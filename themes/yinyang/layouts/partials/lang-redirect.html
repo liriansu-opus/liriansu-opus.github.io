@@ -1,0 +1,29 @@
+{{- /* Sends English-only readers from a Chinese page to its translation.
+       Crawlers must stay put: each language has to be indexable on its own URL,
+       and hreflang is what tells search engines about the other version. */ -}}
+{{- if eq site.Language.Lang "cn" -}}
+{{- with .Translations -}}
+{{- $target := (index . 0).RelPermalink }}
+<script>
+  (function () {
+    try {
+      var target = {{ $target }};
+      var lang = new URLSearchParams(window.location.search).get("lang");
+      var pref = null;
+      try {
+        // An explicit ?lang= is remembered and beats everything else.
+        if (lang === "cn" || lang === "en") localStorage.setItem("lang-pref", lang);
+        pref = localStorage.getItem("lang-pref");
+      } catch (e) {}
+      pref = lang || pref;
+      if (pref === "cn") return;
+      if (pref === "en") { window.location.replace(target); return; }
+      if (/bot|crawl|spider|slurp|lighthouse|bingpreview|facebookexternalhit/i.test(navigator.userAgent)) return;
+      // No choice made yet: redirect only when the browser asks for no Chinese at all.
+      var langs = (navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || ""]).join(",").toLowerCase();
+      if (langs.indexOf("en") === 0 && langs.indexOf("zh") === -1) window.location.replace(target);
+    } catch (e) {}
+  })();
+</script>
+{{- end -}}
+{{- end -}}

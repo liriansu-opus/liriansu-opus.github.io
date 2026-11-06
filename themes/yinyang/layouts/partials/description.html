@@ -1,0 +1,12 @@
+{{- /* Plain-text description for meta tags and JSON-LD. Summaries are HTML with hard line breaks. */ -}}
+{{- $d := .Description -}}
+{{- if not $d -}}
+  {{- $d = cond .IsHome site.Params.description (string .Summary) -}}
+{{- end -}}
+{{- $d = replaceRE `<br\s*/?>` " " $d | plainify | htmlUnescape -}}
+{{- $d = replaceRE `\s+` " " $d | strings.TrimSpace -}}
+{{- $d = replaceRE `([，。！？：；、])\s+` "$1" $d -}}
+{{- if not $d -}}
+  {{- $d = replaceRE `\s+` " " .Plain | strings.TrimSpace -}}
+{{- end -}}
+{{- return (truncate 150 (or $d site.Params.description)) -}}

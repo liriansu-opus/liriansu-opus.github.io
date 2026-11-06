@@ -1,90 +1,65 @@
 <head>
   <meta charset="utf-8" />
   {{ hugo.Generator }}
-
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="author" content="{{ .Site.Params.author.name }}" />
-  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta name="author" content="{{ site.Params.author.name }}" />
+
+  {{- /* Post titles must keep the "Title - Site" form: utterances finds each
+         comment thread by document.title. */ -}}
+  {{- $title := printf "%s - %s" .Title site.Title -}}
+  {{- if .IsHome -}}
+    {{- $title = site.Title -}}
+    {{- with site.Params.tagline -}}{{- $title = printf "%s - %s" site.Title . -}}{{- end -}}
+  {{- end }}
+  <title>{{ $title }}</title>
+
+  {{- if eq .Kind "404" }}
+  <meta name="robots" content="noindex" />
+  {{- else }}
+  {{- $description := partial "description.html" . }}
+  {{- $image := partial "ogimage.html" . }}
+  <meta name="description" content="{{ $description }}" />
   <link rel="canonical" href="{{ .Permalink }}" />
 
-  {{- if eq .Site.Language.Lang "cn" -}}
-  {{- $enTarget := "" -}}
-  {{- if .IsHome -}}
-    {{- $enTarget = "/en/" -}}
-  {{- else if .Params.enUrl -}}
-    {{- $enTarget = .Params.enUrl -}}
-  {{- else if eq .RelPermalink "/about/" -}}
-    {{- $enTarget = "/en/about/" -}}
-  {{- end -}}
-  {{- if $enTarget }}
-  <link rel="alternate" hreflang="en" href="{{ $enTarget }}" />
-  <script>
-    (function () {
-      try {
-        // Explicit ?lang= overrides everything and is remembered persistently.
-        var qs = window.location.search || "";
-        if (qs.indexOf("lang=cn") !== -1) {
-          try { localStorage.setItem("lang-pref", "cn"); } catch (e) {}
-          return;
-        }
-        if (qs.indexOf("lang=en") !== -1) {
-          try { localStorage.setItem("lang-pref", "en"); } catch (e) {}
-          window.location.replace("{{ $enTarget }}");
-          return;
-        }
-        // A manual language choice (saved on click) always wins over browser language.
-        var pref = null;
-        try { pref = localStorage.getItem("lang-pref"); } catch (e) {}
-        if (pref === "cn") { return; }
-        if (pref === "en") { window.location.replace("{{ $enTarget }}"); return; }
-        // No manual choice yet: fall back to browser language.
-        var lang = (navigator.language || navigator.userLanguage || "").toLowerCase();
-        if (lang.indexOf("en") === 0) {
-          window.location.replace("{{ $enTarget }}");
-        }
-      } catch (e) {}
-    })();
-  </script>
-  {{- end -}}
-  {{- end -}}
-  {{- if and (eq .Site.Language.Lang "en") .Params.zhUrl -}}
-  <link rel="alternate" hreflang="zh" href="{{ .Params.zhUrl }}" />
-  {{- end -}}
-  {{- if .Site.Params.favicon -}}
-  <link rel="shortcut icon" href="{{ .Site.Params.favicon }}" type="image/x-png" />
-  {{- end -}}
+  {{- /* hreflang needs absolute URLs, a self reference and x-default. */ -}}
+  {{- if .IsTranslated }}
+  {{- range .AllTranslations }}
+  <link rel="alternate" hreflang="{{ .Language.Locale }}" href="{{ .Permalink }}" />
+  {{- if eq .Language.Lang "cn" }}
+  <link rel="alternate" hreflang="x-default" href="{{ .Permalink }}" />
+  {{- end }}
+  {{- end }}
+  {{- end }}
 
-  {{ partial "seo" . }}
-  {{- if .IsHome -}}
-  <title>{{ .Site.Title }}</title>
-  <meta property="og:title" content="{{ .Site.Title }}" />
-  <meta property="og:type" content="website" />
-  <meta name="description" content="{{ .Site.Params.description }}" />
-  {{- else -}}
-  <title>{{ .Title }} - {{ .Site.Title }}</title>
-  <meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}" />
+  <meta property="og:site_name" content="{{ site.Title }}" />
+  <meta property="og:title" content="{{ cond .IsHome $title .Title }}" />
+  <meta property="og:description" content="{{ $description }}" />
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:image" content="{{ $image }}" />
+  <meta property="og:locale" content="{{ replace site.Language.Locale "-" "_" }}" />
+  {{- range .Translations }}
+  <meta property="og:locale:alternate" content="{{ replace .Language.Locale "-" "_" }}" />
+  {{- end }}
+  {{- if eq .Type "posts" }}
   <meta property="og:type" content="article" />
-  <meta name="description" content="{{ default .Summary .Description }}" />
+  <meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" />
+  <meta property="article:author" content="{{ site.Params.author.name }}" />
+  {{- else }}
+  <meta property="og:type" content="website" />
+  {{- end }}
+  <meta name="twitter:card" content="summary_large_image" />
+
+  {{ partial "seo.html" . }}
+  {{ partial "lang-redirect.html" . }}
   {{- end }}
 
-  <link rel="stylesheet" href="{{ .Site.Params.staticPrefix }}{{ "css/flexboxgrid-6.3.1.min.css" | relURL }}" />
-  {{ if not .IsHome -}}
-  <link rel="stylesheet"
-    href="{{ .Site.Params.staticPrefix }}{{ "css/github-markdown.min.css" | relURL }}" />
-  <link rel="stylesheet" href="{{ .Site.Params.staticPrefix }}{{ "css/highlight/tomorrow.min.css" | relURL }}" />
-  {{- end }}
-  <link rel="stylesheet" href="{{ .Site.Params.staticPrefix }}{{ "css/index.css" | relURL }}">
-  <link href="{{ .Site.Params.staticPrefix }}{{ "index.xml" | relURL }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}">
-  <!-- fonts -->
-  <link href="https://fonts.googleapis.com/css?family=Arvo|Permanent+Marker" rel="stylesheet">
-  <!-- quicklink require -->
-  <!-- <script>
-    /* Disable minification (remove `.min` from URL path) for more info
-    https://polyfill.io/v2/polyfill.min.js?features=IntersectionObserver
-    */
-    (function (undefined) { }).call('object' === typeof window && window || 'object' === typeof self && self || 'object' === typeof global && global || {});
-  </script> -->
+  {{- $css := slice
+    (resources.Get "css/flexboxgrid-6.3.1.min.css")
+    (resources.Get "css/github-markdown.min.css")
+    (resources.Get "css/index.css")
+    | resources.Concat "css/main.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.Title }}" href="{{ "/index.xml" | relLangURL }}" />
 
-  {{ .Site.Params.extraHead | safeHTML }}
+  {{ site.Params.extraHead | safeHTML }}
 </head>

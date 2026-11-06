@@ -1,0 +1,8 @@
+{{- /* Absolute social-card image: front matter, else the post's first local image, else the site default. */ -}}
+{{- $img := .Params.image -}}
+{{- if not $img -}}
+  {{- with findRESubmatch `<img[^>]+src="(/assets/[^"]+\.(?:jpe?g|png))"` .Content 1 -}}
+    {{- $img = index (index . 0) 1 -}}
+  {{- end -}}
+{{- end -}}
+{{- return ((or $img site.Params.ogImage) | absURL) -}}

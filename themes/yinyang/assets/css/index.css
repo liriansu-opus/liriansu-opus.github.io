@@ -21,27 +21,24 @@ a:hover {
   text-decoration: underline;
 }
 
-.post-ads {
-  margin: 50px 0;
-}
-
 /* overwrite github-markdown */
 
 .markdown-body {
   font-size: 18px;
 }
 
-/* i18n */
-
-.Chinese .markdown-body {
-  line-height: 200%;
-}
-
 /* fonts */
 
 @font-face {
-        font-family: xkcd-script;
-        src: url('fonts/xkcd-script.woff') format('woff');
+  font-family: xkcd-script;
+  src: url('fonts/xkcd-script.woff') format('woff');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Arvo;
+  src: url('/fonts/Arvo.woff2') format('woff2');
+  font-display: swap;
 }
 
 /* header */
@@ -49,7 +46,7 @@ a:hover {
 .site-title {
   font-size: 3rem;
   font-weight: bold;
-  margin-top: 32px;
+  margin: 32px 0 0;
 }
 
 .site-date-catalog {
@@ -140,6 +137,7 @@ a:hover {
 
 .post img {
   max-width: 100%;
+  height: auto;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -178,6 +176,13 @@ a:hover {
   margin-bottom: 1em;
 }
 
+/* break-all and justify suit CJK but split English words mid-word */
+.post.en .post-content p {
+  overflow-wrap: break-word;
+  text-align: left;
+  word-break: normal;
+}
+
 .releated-content {
   border-width: 3px;
   border-style: solid;
@@ -189,34 +194,4 @@ a:hover {
 
 .releated-content li {
   margin: 5px 0;
-}
-
-/* gallery */
-
-.gallery-img {
-  text-align: center;
-}
-
-.gallery-img span {
-  text-align: center;
-}
-.gallery-img-desc {
-  font-size: 0.8em;
-  font-weight: 800;
-}
-
-/* disqus */
-
-#disqus_thread {
-  position: relative;
-}
-
-#disqus_thread:after {
-  content: "";
-  display: block;
-  height: 55px;
-  width: 100%;
-  position: absolute;
-  bottom: 0;
-  background: white;
 }

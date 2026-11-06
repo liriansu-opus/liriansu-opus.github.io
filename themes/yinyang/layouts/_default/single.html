@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.Language.Locale }}">
 {{ partial "head.html" . }}
 
 <body>
@@ -14,11 +14,11 @@
           {{ if in site.Params.mainSections .Type }}
           <div class="row post-desc">
             {{ if .Date }}
-            <time class="post-header-item" datetime="{{ .Date.Format "2006-01-02 15:04:05 MST" }}">
+            <time class="post-header-item" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
               Written at {{ .Date.Format "2006-01-02 15:04" }}
             </time>
             {{ end }}
-            <span class="post-header-item" id="busuanzi_container_page_pv"> Views <span id="busuanzi_value_page_pv" /> </span>
+            <span class="post-header-item" id="busuanzi_container_page_pv" style="display:none"> Views <span id="busuanzi_value_page_pv"></span> </span>
           </div>
           {{ end }}
         </header>

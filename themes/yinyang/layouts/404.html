@@ -1,7 +1,22 @@
-{{ define "main"}}
-    <main id="main">
-      <div>
-       <h1 id="title"><a href="{{ "/" | relURL }}">Go Home</a></h1>
+<!DOCTYPE html>
+<html lang="{{ site.Language.Locale }}">
+{{ partial "head.html" . }}
+
+<body>
+  <article class="post" id="article">
+    <div class="row">
+      <div class="col-xs-12 col-sm-10 col-md-8 col-sm-offset-1 col-md-offset-2 col-lg-6 col-lg-offset-3">
+        {{ partial "header.html" . }}
+        <header class="post-header">
+          <h1 class="post-title">404</h1>
+        </header>
+        <div class="post-content markdown-body">
+          <p>这个页面不存在，可能已经搬家了。<a href="/">回到首页</a></p>
+          <p lang="en">This page does not exist. It may have moved. <a href="/en/">Back to the home page</a></p>
+        </div>
       </div>
-    </main>
-{{ end }}
+    </div>
+  </article>
+</body>
+
+</html>

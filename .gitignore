@@ -12,3 +12,6 @@ _site/
 node_modules/
 public/
 
+
+# Hugo Pipes cache
+resources/_gen/

@@ -1,0 +1,17 @@
+{{- /* Local images get real dimensions so the page does not jump while they load. */ -}}
+{{- $src := .Destination -}}
+{{- $width := 0 -}}
+{{- $height := 0 -}}
+{{- if hasPrefix $src "/" -}}
+  {{- $file := printf "static%s" $src -}}
+  {{- if and (fileExists $file) (not (strings.HasSuffix $src ".svg")) -}}
+    {{- with images.Config $file -}}
+      {{- $width = .Width -}}
+      {{- $height = .Height -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+<img src="{{ $src | safeURL }}" alt="{{ or .PlainText .Title .Page.Title }}"
+  {{- with .Title }} title="{{ . }}"{{ end }}
+  {{- if $width }} width="{{ $width }}" height="{{ $height }}"{{ end }} loading="lazy" decoding="async">
+{{- /**/ -}}

@@ -1,46 +1,19 @@
-{{ $lang := .Site.Language.Lang }}
-
 <div class="site-footer">
   <div class="site-footer-left">
     <div class="site-footer-item">
-      <span id="busuanzi_container_site_pv" style="display:none"> PV: <span id="busuanzi_value_site_pv"/> </span>
+      <span id="busuanzi_container_site_pv" style="display:none"> PV: <span id="busuanzi_value_site_pv"></span> </span>
     </div>
     <div class="site-footer-item">
-      <span id="busuanzi_container_site_uv" style="display:none"> UV: <span id="busuanzi_value_site_uv"/> </span>
+      <span id="busuanzi_container_site_uv" style="display:none"> UV: <span id="busuanzi_value_site_uv"></span> </span>
     </div>
   </div>
 
   <div class="site-footer-right">
-    {{- if eq $lang "cn" -}}
-    {{/* On a CN page, offer the matching EN page; remember the choice so the auto-redirect honors it. */}}
-    {{- $enTarget := "" -}}
-    {{- if .IsHome -}}
-      {{- $enTarget = "/en/" -}}
-    {{- else if .Params.enUrl -}}
-      {{- $enTarget = .Params.enUrl -}}
-    {{- else if eq .RelPermalink "/about/" -}}
-      {{- $enTarget = "/en/about/" -}}
-    {{- end -}}
-    {{- if $enTarget }}
+    {{- /* Saving lang-pref makes the auto-redirect honor a manual choice. */ -}}
+    {{- range .Translations }}
     <div class="site-footer-item">
-      <a href="{{ $enTarget }}" onclick="try{localStorage.setItem('lang-pref','en')}catch(e){}">English</a>
+      <a href="{{ .RelPermalink }}" hreflang="{{ .Language.Locale }}" onclick="try{localStorage.setItem('lang-pref','{{ .Language.Lang }}')}catch(e){}">{{ .Language.Label }}</a>
     </div>
-    {{- end -}}
-    {{- else if eq $lang "en" -}}
-    {{/* On an EN page, offer the matching CN page; saving lang-pref=cn defeats the auto-redirect. */}}
-    {{- $zhTarget := "" -}}
-    {{- if .IsHome -}}
-      {{- $zhTarget = "/" -}}
-    {{- else if .Params.zhUrl -}}
-      {{- $zhTarget = .Params.zhUrl -}}
-    {{- else if eq .RelPermalink "/en/about/" -}}
-      {{- $zhTarget = "/about/" -}}
-    {{- end -}}
-    {{- if $zhTarget }}
-    <div class="site-footer-item">
-      <a href="{{ $zhTarget }}" onclick="try{localStorage.setItem('lang-pref','cn')}catch(e){}">中文</a>
-    </div>
-    {{- end -}}
-    {{- end -}}
+    {{- end }}
   </div>
 </div>
