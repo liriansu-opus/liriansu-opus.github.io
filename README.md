@@ -4,6 +4,19 @@
 不过你想认识他的话，
 可以看看他的自我介绍: [liriansu.com/about](https://liriansu.com/about)
 
+## 本地开发
+
+需要 Hugo extended，版本见 `.github/workflows/hugo.yml` 里的 `HUGO_VERSION`。
+
+```sh
+hugo server                                         # 本地预览
+hugo --minify && python3 scripts/check_site.py public   # 构建并检查死链、SEO 元数据
+```
+
+每篇文章的中英文版本靠 front matter 里相同的 `translationKey` 关联，语言切换、hreflang 和 sitemap 都依赖它。
+
+评论用 utterances，按 `document.title` 匹配 issue，改动文章标题或 `<title>` 格式会让旧评论对不上。
+
 ## 今天又学到了什么奇怪的知识？
 
 身边有着一群聪明的朋友的后果就是：
