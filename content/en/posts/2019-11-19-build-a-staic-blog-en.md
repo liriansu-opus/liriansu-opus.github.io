@@ -111,7 +111,7 @@ For Chinese fonts I'm still looking for a cute handwritten one.
 
 ![xkcd-303][xkcd-303]
 
-For the domain, by default it gives you a lki.github.io domain.
+For the domain, by default it gives you a liriansu-opus.github.io domain.
 For custom domains, see the official docs: [github-custom-domain][github-custom-domain]
 Remember to enable HTTPS in settings:
 

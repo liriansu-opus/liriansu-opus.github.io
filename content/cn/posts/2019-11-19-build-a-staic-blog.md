@@ -111,7 +111,7 @@ hugo server -D
 
 ![xkcd-303][xkcd-303]
 
-域名的话，默认会开启 lki.github.io 这样的域名，
+域名的话，默认会开启 liriansu-opus.github.io 这样的域名，
 需要用自定义的域名可参考官方文档：[github-custom-domain][github-custom-domain]
 设置里记得开一下 HTTPS:
 

@@ -17,7 +17,7 @@ GitHub Pages是一个让用户很方便托管项目网页在GitHub的服务。
 比如[我这个博客就是GitHub Pages建成的][build-blog]。
 
 但是这样只能托管一个名为
-[GitHub用户名 + ".github.com"的项目(lki.github.io)][lki-github]
+[GitHub用户名 + ".github.com"的项目(liriansu-opus.github.io)][lki-github]
 
 假如我还有一个项目也想用域名访问怎么办呢？
 
