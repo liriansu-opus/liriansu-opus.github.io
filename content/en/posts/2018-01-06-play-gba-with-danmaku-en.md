@@ -247,7 +247,7 @@ the broken-down and completed tasks were:
 * Implement business logic.
 * Use a program to control a GBA emulator to play GBA games, used the keyboard library to send key info.
 
-The final product is on my GitHub: [LKI/danmaboy][danmaboy] project,
+The final product is on my GitHub: [liriansu-opus/danmaboy][danmaboy] project,
 with effective code being only about 100 lines, all in the [danmaboy/\_\_init\_\_.py][init.py] file.
 
 Wrote it in one afternoon,

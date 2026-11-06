@@ -17,7 +17,7 @@ GitHub Pages is a service that lets users conveniently host project web pages on
 For example, [this blog of mine is built with GitHub Pages][build-blog].
 
 But this way you can only host one project named
-[GitHub username + ".github.com" (lki.github.io)][lki-github].
+[GitHub username + ".github.com" (liriansu-opus.github.io)][lki-github].
 
 What if I have another project that I also want to access by domain name?
 

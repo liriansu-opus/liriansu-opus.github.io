@@ -18,8 +18,8 @@ aliases:
 GitHub有个设定，
 就是**每个项目的gh-pages分支可以通过`user-domain/项目名`来访问**。
 
-比如以前我把一些常用的js/css库放到[我的static项目下(LKI/static)][lki-static]，
-该项目下`gh-pages`分支的index.html就可以直接通过[lki.github.io/static][html-static]访问。
+比如以前我把一些常用的js/css库放到[我的static项目下(liriansu-opus/static)][lki-static]，
+该项目下`gh-pages`分支的index.html就可以直接通过[liriansu-opus.github.io/static][html-static]访问。
 
 GitHub的这个设定本意是[让每个项目都有自己的主页来展示][pages]，
 不过我们也可以借用这个设定来托管静态HTML页面。

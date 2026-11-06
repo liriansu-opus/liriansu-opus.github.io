@@ -247,7 +247,7 @@ client.start()
 * 实现业务逻辑。
 * 用程序操纵GBA模拟器来玩GBA游戏，使用了keyboard库发送键位信息。
 
-最终的成品在我的GitHub上：[LKI/danmaboy][danmaboy]这个项目，
+最终的成品在我的GitHub上：[liriansu-opus/danmaboy][danmaboy]这个项目，
 有效代码就100行，就在[danmaboy/\_\_init\_\_.py][init.py]一个文件内。
 
 一下午就写完了，

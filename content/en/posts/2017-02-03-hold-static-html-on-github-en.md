@@ -18,8 +18,8 @@ teaching you how to host static HTML pages on GitHub.
 GitHub has a setting
 where **the gh-pages branch of every project is accessible via `user-domain/project-name`**.
 
-For example, I used to put some commonly-used js/css libraries in [my static project (LKI/static)][lki-static],
-and the index.html on the `gh-pages` branch of that project could be directly accessed via [lki.github.io/static][html-static].
+For example, I used to put some commonly-used js/css libraries in [my static project (liriansu-opus/static)][lki-static],
+and the index.html on the `gh-pages` branch of that project could be directly accessed via [liriansu-opus.github.io/static][html-static].
 
 GitHub's original intent for this setting is [to let every project have its own homepage for display][pages],
 but we can also borrow this setting to host static HTML pages.
