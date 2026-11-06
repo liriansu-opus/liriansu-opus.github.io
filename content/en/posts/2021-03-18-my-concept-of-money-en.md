@@ -1,7 +1,7 @@
 ---
 title: "My Concept of Money"
 date: 2021-03-18T20:41:35+08:00
-zhUrl: /my-concept-of-money
+translationKey: my-concept-of-money
 aliases:
   - /my-concept-of-money-en
 ---
@@ -59,7 +59,7 @@ family inheritance is really a topic that has to be faced head-on.
 
 > "I heard you can make 10K+ a month after a three-month IT training, is that true?"
 > "It can be true."
-> 《[The Lianjia Guy Asked Me: I heard you can make 10K+ a month after a three-month IT training, is that true?](/is-it-possible-to-be-rich-easily-by-programming-en)》
+> 《[The Lianjia Guy Asked Me: I heard you can make 10K+ a month after a three-month IT training, is that true?](/en/posts/2018-03-12-is-it-possible-to-be-rich-easily-by-programming-en/)》
 
 Labor as the most glorious is a traditional virtue of the Chinese nation.
 The vast majority of programmer friends' income comes from labor,
@@ -115,7 +115,7 @@ I had Mia add another 40K investment,
 then I've been gliding down from the peak ever since,
 collecting countless memes, gifs, and jokes along the way.
 
-Back in the [《Chat With Roommates》](/a-chat-with-roommates-en) era,
+Back in the [《Chat With Roommates》](/en/posts/2015-06-12-a-chat-with-roommates-en/) era,
 I held an unsophisticated view of financial freedom:
 
 Assume you work 10 years and save up 1M.

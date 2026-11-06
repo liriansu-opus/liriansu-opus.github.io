@@ -1,7 +1,7 @@
 ---
 title: "Dying for Pinduoduo Is Not Worth It"
 date: 2021-01-05T20:21:20+08:00
-zhUrl: /no-more-dying-for-pinduoduo
+translationKey: no-more-dying-for-pinduoduo
 aliases:
   - /no-more-dying-for-pinduoduo-en
 ---

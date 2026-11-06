@@ -1,6 +1,6 @@
 ---
 title: "[原则] 永远在路上"
-enUrl: /principle-infinite-game-en
+translationKey: principle-infinite-game
 date: 2020-05-24T22:02:34+08:00
 aliases:
   - /principle-infinite-game
@@ -156,7 +156,7 @@ aliases:
 
 （完）
 
-[engineer-culture]: /engineer-culture
-[developer-team]: /developer-team
+[engineer-culture]: /posts/2018-07-26-engineer-culture/
+[developer-team]: /posts/2019-01-28-developer-team/
 [zhihu-debt]: https://www.zhihu.com/question/320279757
-[adult]: /adult-life
+[adult]: /posts/2018-09-09-adult-life/

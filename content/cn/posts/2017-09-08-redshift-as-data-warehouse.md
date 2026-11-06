@@ -1,6 +1,6 @@
 ---
 title:     "数据仓库解决方案 RedShift 入坑指南"
-enUrl: /redshift-as-data-warehouse-en
+translationKey: redshift-as-data-warehouse
 date:      "2017-09-08 22:59:08"
 aliases:
   - /redshift-as-data-warehouse
@@ -208,7 +208,7 @@ RedShift 的最大的好处在于用钱换取生产力，
 * [西乔 - 历史悲剧 - https://blog.xiqiao.info/2013/01/14/1366][utf8-enough]
 
 
-[cash-cow]: /what-is-cash-cow
+[cash-cow]: /posts/2017-07-27-what-is-cash-cow/
 [aws-redshift]: https://docs.aws.amazon.com/zh_cn/redshift/latest/dg/tutorial-tuning-tables.html
 [coolshell-12306]: https://coolshell.cn/articles/6470.html
 [wiki-dw]: https://en.wikipedia.org/wiki/Data_warehouse

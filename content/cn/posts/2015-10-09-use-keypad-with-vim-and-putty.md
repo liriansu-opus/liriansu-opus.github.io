@@ -1,6 +1,6 @@
 ---
 title:     "VIM中小键盘失灵的解决方案(Putty)"
-enUrl: /use-keypad-with-vim-and-putty-en
+translationKey: use-keypad-with-vim-and-putty
 date:      2015-10-09 15:34:16
 aliases:
   - /use-keypad-with-vim-and-putty

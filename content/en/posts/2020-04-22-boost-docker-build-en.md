@@ -1,7 +1,7 @@
 ---
 title: "How to Boost the Docker Build Process"
 date: 2020-04-22T22:28:53+08:00
-zhUrl: /boost-docker-build
+translationKey: boost-docker-build
 aliases:
   - /boost-docker-build-en
 ---

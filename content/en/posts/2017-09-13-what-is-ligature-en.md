@@ -1,7 +1,7 @@
 ---
 title: "What is a Ligature"
 date: "2017-09-13 22:45:39"
-zhUrl: /what-is-ligature
+translationKey: what-is-ligature
 aliases:
   - /what-is-ligature-en
 ---
@@ -83,5 +83,5 @@ Got to keep learning.
 [wiki]: https://en.wikipedia.org/wiki/Typographic_ligature
 [fi]: /assets/pics/fi.png
 [fira-code]: https://github.com/tonsky/FiraCode
-[fira-code-demo]: https://raw.githubusercontent.com/tonsky/FiraCode/master/showcases/all_ligatures.png
+[fira-code-demo]: https://raw.githubusercontent.com/tonsky/FiraCode/master/extras/ligatures.png
 [jetbrains-ligature]: /assets/pics/jetbrains_ligature.png

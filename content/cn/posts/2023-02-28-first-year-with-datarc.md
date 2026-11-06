@@ -1,6 +1,6 @@
 ---
 title: "在北极九章工作的这一年"
-enUrl: /first-year-with-datarc-en
+translationKey: first-year-with-datarc
 date: 2023-02-28T22:09:15+08:00
 aliases:
   - /first-year-with-datarc
@@ -276,9 +276,9 @@ Eva 追着林俊杰跑，
 （完）
 
 
-[adult-life]: /adult-life
-[grandma]: /my-grandma
-[my-work-at-zaihui]: /my-work
+[adult-life]: /posts/2018-09-09-adult-life/
+[grandma]: /posts/2021-05-31-my-grandma/
+[my-work-at-zaihui]: /posts/2017-06-11-my-work/
 [nana-node]: /assets/pics/datarc/nana-node.png
 [pm-wish]: /assets/pics/datarc/pm-wish.png
 [netflix]: /assets/pics/datarc/netflix.png

@@ -1,7 +1,7 @@
 ---
 title: "Five Years After Graduation: The Future"
 date: 2020-11-15T21:00:54+08:00
-zhUrl: /adult-life-future
+translationKey: adult-life-future
 aliases:
   - /adult-life-future-en
 ---
@@ -264,16 +264,16 @@ So lastly, wishing you good health, see you again if fate permits!
 
 (End)
 
-[adult-life]: /adult-life-en
-[my-programmer-habits]: /my-programmer-habits-en
-[chat]: /a-chat-with-roommates-en
-[company-stategy]: /company-stategy-en
+[adult-life]: /en/posts/2018-09-09-adult-life-en/
+[my-programmer-habits]: /en/posts/2017-07-01-my-programmer-habits-en/
+[chat]: /en/posts/2015-06-12-a-chat-with-roommates-en/
+[company-stategy]: /en/posts/2018-10-25-company-stategy-en/
 [eleme]: https://www.zhihu.com/question/38295860/answer/76086628
-[memories]: /adult-life-memories-en
+[memories]: /en/posts/2020-07-05-adult-life-memories-en/
 [good-strong]: /assets/pics/good_and_strong.png
-[work]: /my-work-en
-[1984]: /thoughts-on-1984-en
-[teamwork]: /adult-life-teamwork-en
-[future]: /adult-life-future-en
-[code]: /adult-life-code-en
-[about]: /about-en
+[work]: /en/posts/2017-06-11-my-work-en/
+[1984]: /en/posts/2016-02-18-thoughts-on-1984-en/
+[teamwork]: /en/posts/2020-07-06-adult-life-teamwork-en/
+[future]: /en/posts/2020-11-15-adult-life-future-en/
+[code]: /en/posts/2020-07-12-adult-life-code-en/
+[about]: /en/about/

@@ -2,7 +2,7 @@
 layout: post
 title: How This Blog Was Built
 date: 2015-09-24T20:26:17.000Z
-zhUrl: /how-this-blog-was-built
+translationKey: how-this-blog-was-built
 aliases:
   - /how-this-blog-was-built-en
 ---
@@ -80,7 +80,7 @@ Looks like in the future, while writing the blog I also need to continuously opt
 [edward-mj.com]: https://edward-mj.com/
 [github-pages]:  https://pages.github.com/
 [jekyll]:        https://jekyllrb.com/
-[duoshuo]:       https://duoshuo.com/
+[duoshuo]:       https://web.archive.org/web/20170321004852/http://duoshuo.com/
 [disqus]:        https://disqus.com/
-[disqus-jekyll]: https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions
-[github-render]: https://github.com/LKI/blogs/issues/3
+[disqus-jekyll]: https://web.archive.org/web/20170222104634/https://help.disqus.com/customer/portal/articles/472138-jekyll-installation-instructions
+[github-render]: https://github.com/liriansu-opus/oldblogs/issues/3

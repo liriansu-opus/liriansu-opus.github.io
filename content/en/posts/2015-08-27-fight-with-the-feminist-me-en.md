@@ -1,7 +1,7 @@
 ---
 title:     "Me and the Feminist Me Got into a Fight"
 date:      "2015-08-27 20:28:00"
-zhUrl: /fight-with-the-feminist-me
+translationKey: fight-with-the-feminist-me
 aliases:
   - /fight-with-the-feminist-me-en
 ---

@@ -1,6 +1,6 @@
 ---
 title:     "什么是连字 (ligature)"
-enUrl: /what-is-ligature-en
+translationKey: what-is-ligature
 date:      "2017-09-13 22:45:39"
 aliases:
   - /what-is-ligature
@@ -83,6 +83,6 @@ ligature，维基百科中文页是叫“合字”，其实概念意义上更接
 [wiki]: https://en.wikipedia.org/wiki/Typographic_ligature
 [fi]: /assets/pics/fi.png
 [fira-code]: https://github.com/tonsky/FiraCode
-[fira-code-demo]: https://raw.githubusercontent.com/tonsky/FiraCode/master/showcases/all_ligatures.png
+[fira-code-demo]: https://raw.githubusercontent.com/tonsky/FiraCode/master/extras/ligatures.png
 [jetbrains-ligature]: /assets/pics/jetbrains_ligature.png
 

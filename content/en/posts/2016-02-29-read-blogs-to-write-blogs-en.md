@@ -1,7 +1,7 @@
 ---
 title: "Read Blogs to Write Blogs"
 date: "2016-02-29 13:27:52"
-zhUrl: /read-blogs-to-write-blogs
+translationKey: read-blogs-to-write-blogs
 aliases:
   - /read-blogs-to-write-blogs-en
 ---
@@ -70,7 +70,7 @@ I hope one day I can also appear in someone else's recommended links :D
 [raychase]:          https://www.raychase.net/category/recommended
 [raychase-about]:    https://www.raychase.net/aboutme
 [raychase-life]:     https://www.raychase.net/3196
-[about-shell909090]: https://shell909090.org/blog/%E7%AE%80%E5%8E%86
+[about-shell909090]: https://web.archive.org/web/20160524231026/http://shell909090.org:80/blog/%E7%AE%80%E5%8E%86
 [orcarina]:          /assets/cest_tama_la_vie.jpg
 [jeff]:              https://en.wikipedia.org/wiki/Jeff_Atwood
 [jeff-write-blog]:   https://blog.codinghorror.com/how-to-achieve-ultimate-blog-success-in-one-easy-step/
@@ -79,5 +79,5 @@ I hope one day I can also appear in someone else's recommended links :D
 [coolshell]:         https://coolshell.cn/
 [shell909090]:       https://shell909090.org/blog/
 [lucida]:            https://lucida.me/
-[dashu]:             https://www.qiukeke.com/
+[dashu]:             https://web.archive.org/web/20240222232951/http://www.qiukeke.com/
 [taosay]:            https://taosay.net

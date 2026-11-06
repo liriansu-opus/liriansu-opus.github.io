@@ -1,7 +1,7 @@
 ---
 title: "A Programmer's Logic"
 date: "2017-10-31 22:05:35"
-zhUrl: /programmers-logic
+translationKey: programmers-logic
 aliases:
   - /programmers-logic-en
 ---
@@ -225,8 +225,8 @@ a small part of my logic as a programmer.
 [local-optima]: https://en.wikipedia.org/wiki/Local_optimum
 [meme]: https://en.wikipedia.org/wiki/Meme
 [combo]: /assets/pics/meme/moe_combo.png
-[stockings]: /girls-stockings-en
-[cashcow]: /what-is-cash-cow-en
-[pronunciations]: /pronunciations-en
-[smoking]: /why-i-hate-smoking-en
+[stockings]: /en/posts/2017-07-30-girls-stockings-en/
+[cashcow]: /en/posts/2017-07-27-what-is-cash-cow-en/
+[pronunciations]: /en/posts/2017-05-12-pronunciations-en/
+[smoking]: /en/posts/2016-03-31-why-i-hate-smoking-en/
 [fermat]: https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem

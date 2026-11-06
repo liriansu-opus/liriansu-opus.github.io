@@ -1,6 +1,6 @@
 ---
 title: "可能存在的婚姻恐惧"
-enUrl: /marry-or-not-en
+translationKey: marry-or-not
 date: 2015-02-28 00:11:00
 aliases:
   - /marry-or-not

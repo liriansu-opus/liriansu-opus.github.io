@@ -1,7 +1,7 @@
 ---
 title:     "Recording a Meaningful BS Session"
 date:      "2015-06-12 22:06:00"
-zhUrl: /a-chat-with-roommates
+translationKey: a-chat-with-roommates
 aliases:
   - /a-chat-with-roommates-en
 ---

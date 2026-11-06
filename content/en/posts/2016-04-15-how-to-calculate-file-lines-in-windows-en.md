@@ -1,7 +1,7 @@
 ---
 title: "How to Count File Lines in Windows Command Line"
 date: "2016-04-15 22:13:15"
-zhUrl: /how-to-calculate-file-lines-in-windows
+translationKey: how-to-calculate-file-lines-in-windows
 aliases:
   - /how-to-calculate-file-lines-in-windows-en
 ---

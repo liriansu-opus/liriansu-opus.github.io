@@ -1,7 +1,7 @@
 ---
 title: "How Should Tech People Choose Their Career Development Path"
 date: "2018-10-25 23:35:26"
-zhUrl: /company-stategy
+translationKey: company-stategy
 aliases:
   - /company-stategy-en
 ---
@@ -20,7 +20,7 @@ But back then I was actually super confused:
 
 So holding the happy mindset that "when the car gets to the mountain there will be a road,"
 I went to the first company that gave me an offer.
-(Turned out work was unexpectedly fishy, see [《Earlier Article》](/adult-life-en))
+(Turned out work was unexpectedly fishy, see [《Earlier Article》](/en/posts/2018-09-09-adult-life-en/))
 
 When I look back at this naive thinking today,
 my biggest insight is:

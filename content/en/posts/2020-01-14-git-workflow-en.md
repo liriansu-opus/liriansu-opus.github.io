@@ -1,7 +1,7 @@
 ---
 title: "Software Engineering Practice: Git Workflow"
 date: 2020-01-14T21:39:31+08:00
-zhUrl: /software-engineering-git-workflow
+translationKey: software-engineering-git-workflow
 aliases:
   - /software-engineering-git-workflow-en
 ---

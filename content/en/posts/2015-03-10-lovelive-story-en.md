@@ -1,7 +1,7 @@
 ---
 title: "A Dialogue with an LL Patient"
 date: 2015-03-10 19:43:00
-zhUrl: /lovelive-story
+translationKey: lovelive-story
 aliases:
   - /lovelive-story-en
 ---

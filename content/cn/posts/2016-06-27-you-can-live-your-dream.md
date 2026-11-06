@@ -1,7 +1,7 @@
 ---
 title:     "You can live your dream"
 date:      "2016-06-27 23:06:13"
-enUrl:     /you-can-live-your-dream-en
+translationKey: you-can-live-your-dream
 aliases:
   - /you-can-live-your-dream
 ---

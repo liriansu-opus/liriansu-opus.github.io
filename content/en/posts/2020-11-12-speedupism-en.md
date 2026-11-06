@@ -1,7 +1,7 @@
 ---
 title: "Keep a Clear Awareness of Accelerationism"
 date: 2020-11-12T21:44:34+08:00
-zhUrl: /speedupism
+translationKey: speedupism
 aliases:
   - /speedupism-en
 ---
@@ -137,4 +137,4 @@ he actually wants to open a window.
 
 (End)
 
-[feminist]: /fight-with-the-feminist-me-en
+[feminist]: /en/posts/2015-08-27-fight-with-the-feminist-me-en/

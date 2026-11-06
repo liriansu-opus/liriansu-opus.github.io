@@ -1,7 +1,7 @@
 ---
 title: "Solution for Jekyll build fail"
 date: "2016-01-29 23:24:45"
-zhUrl: /jekyll-build-fail-solution
+translationKey: jekyll-build-fail-solution
 aliases:
   - /jekyll-build-fail-solution-en
 ---

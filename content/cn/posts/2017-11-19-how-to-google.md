@@ -1,6 +1,6 @@
 ---
 title:     "怎么使用搜索引擎"
-enUrl: /how-to-google-en
+translationKey: how-to-google
 date:      "2017-11-19 21:52:07"
 aliases:
   - /how-to-google
@@ -153,5 +153,5 @@ XYZ问题的描述是[“有的时候我们想解决的是X问题， 但是我�
 （撒花）
 
 [anti-baidu]: https://coolshell.cn/articles/9308.html
-[xyz]: /x-y-z-question
+[xyz]: /posts/2017-02-22-x-y-z-question/
 

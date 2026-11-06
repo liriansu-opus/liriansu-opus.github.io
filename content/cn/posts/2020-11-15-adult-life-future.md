@@ -1,6 +1,6 @@
 ---
 title: "毕业五年的报告之未来"
-enUrl: /adult-life-future-en
+translationKey: adult-life-future
 date: 2020-11-15T21:00:54+08:00
 aliases:
   - /adult-life-future
@@ -264,17 +264,17 @@ aliases:
 
 （完）
 
-[adult-life]: /adult-life
-[my-programmer-habits]: /my-programmer-habits
-[chat]: /a-chat-with-roommates
-[company-stategy]: /company-stategy
+[adult-life]: /posts/2018-09-09-adult-life/
+[my-programmer-habits]: /posts/2017-07-01-my-programmer-habits/
+[chat]: /posts/2015-06-12-a-chat-with-roommates/
+[company-stategy]: /posts/2018-10-25-company-stategy/
 [eleme]: https://www.zhihu.com/question/38295860/answer/76086628
-[memories]: /adult-life-memories
+[memories]: /posts/2020-07-05-adult-life-memories/
 [good-strong]: /assets/pics/good_and_strong.png
-[work]: /my-work
-[1984]: /thoughts-on-1984
-[teamwork]: /adult-life-teamwork
-[future]: /adult-life-future
-[code]: /adult-life-code
-[about]: /about
+[work]: /posts/2017-06-11-my-work/
+[1984]: /posts/2016-02-18-thoughts-on-1984/
+[teamwork]: /posts/2020-07-06-adult-life-teamwork/
+[future]: /posts/2020-11-15-adult-life-future/
+[code]: /posts/2020-07-12-adult-life-code/
+[about]: /about/
 

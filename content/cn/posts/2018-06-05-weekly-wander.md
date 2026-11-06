@@ -1,6 +1,6 @@
 ---
 title:     "最近跟女朋友的周常"
-enUrl: /weekly-wander-en
+translationKey: weekly-wander
 date:      "2018-06-05 00:22:48"
 aliases:
   - /weekly-wander

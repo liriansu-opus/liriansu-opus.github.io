@@ -1,6 +1,6 @@
 ---
 title:     "利用AUFS和Docker搭建多个私有开发环境"
-enUrl: /build-seperate-env-using-aufs-and-docker-en
+translationKey: build-seperate-env-using-aufs-and-docker
 date:      2015-10-21 14:55:24
 aliases:
   - /build-seperate-env-using-aufs-and-docker
@@ -124,6 +124,6 @@ docker run -ti -v /tmp/docker/private:/work ubuntu /bin/bash
 剩下的就是[Get good use of docker images][docker-images]了~
 
 [aufs]:            https://coolshell.cn/articles/17061.html
-[docker-images]:   https://docs.docker.com/userguide/dockerimages/
-[docker-intro]:    /virtual-machine-vs-vagrant-vs-docker
+[docker-images]:   https://web.archive.org/web/20220121001700/https://docs.docker.com/userguide/dockerimages/
+[docker-intro]:    /posts/2015-10-12-virtual-machine-vs-vagrant-vs-docker/
 [docker-volume]:   https://docs.docker.com/userguide/dockervolumes/

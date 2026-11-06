@@ -2,7 +2,7 @@
 layout: post
 title: "Python Project Deployment Automation Part One: A Chestnut Example"
 date: '2017-11-23 16:49:57'
-zhUrl: /python-deployment-automation-one-sample
+translationKey: python-deployment-automation-one-sample
 aliases:
   - /python-deployment-automation-one-sample-en
 ---
@@ -138,5 +138,5 @@ there's still a lot to learn / practice / master.
 [invoke]: https://www.pyinvoke.org/
 [invoker]: https://dota2.gamepedia.com/Invoker
 [supervisor]: https://supervisord.org/
-[self]: /python-deployment-automation-one-sample-en
-[about-me]: /about/
+[self]: /en/posts/2017-11-23-python-deployment-automation-one-sample-en/
+[about-me]: /en/about/

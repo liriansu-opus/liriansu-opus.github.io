@@ -1,7 +1,7 @@
 ---
 title: "Building Multiple Private Dev Environments with AUFS and Docker"
 date: 2015-10-21 14:55:24
-zhUrl: /build-seperate-env-using-aufs-and-docker
+translationKey: build-seperate-env-using-aufs-and-docker
 aliases:
   - /build-seperate-env-using-aufs-and-docker-en
 ---
@@ -124,6 +124,6 @@ This way we can map the private directory as a volume into the /work directory i
 The rest is just [Get good use of docker images][docker-images]~
 
 [aufs]:            https://coolshell.cn/articles/17061.html
-[docker-images]:   https://docs.docker.com/userguide/dockerimages/
-[docker-intro]:    /virtual-machine-vs-vagrant-vs-docker-en
+[docker-images]:   https://web.archive.org/web/20220121001700/https://docs.docker.com/userguide/dockerimages/
+[docker-intro]:    /en/posts/2015-10-12-virtual-machine-vs-vagrant-vs-docker-en/
 [docker-volume]:   https://docs.docker.com/userguide/dockervolumes/

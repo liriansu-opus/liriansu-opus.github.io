@@ -1,6 +1,6 @@
 ---
 title:     "我是怎么实现《用弹幕玩GBA游戏》的"
-enUrl: /play-gba-with-danmaku-en
+translationKey: play-gba-with-danmaku
 date:      "2018-01-06 18:58:33"
 aliases:
   - /play-gba-with-danmaku
@@ -291,7 +291,7 @@ _直播时的画面截图_
 [shengfangsong]: https://www.zhihu.com/question/27088840
 [lisp]: https://www.douyu.com/lisp
 [vim-bilibili]: https://github.com/feisuzhu/vim-bilibili-live
-[play-github]: /how-i-use-github
+[play-github]: /posts/2017-07-18-how-i-use-github/
 [danmu]: https://github.com/littlecodersh/danmu
 [roomid]: https://github.com/littlecodersh/danmu/blob/master/danmu/Bilibili.py
 [zhihu-douyu-danmu]: https://www.zhihu.com/question/29027665

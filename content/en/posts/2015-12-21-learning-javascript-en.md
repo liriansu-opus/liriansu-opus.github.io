@@ -1,7 +1,7 @@
 ---
 title: "The Road of JavaScript"
 date: 2015-12-21 17:26:52
-zhUrl: /learning-javascript
+translationKey: learning-javascript
 aliases:
   - /learning-javascript-en
 ---
@@ -30,7 +30,7 @@ In the end, with crude Ajax + jQuery, we finished [that project][iprs].
 ## Bootstrap
 
 Although I've always been weak at web pages, since web pages are actually the simplest and most convenient display method (better than PPT),
-I quietly [wrote some little things to practice][teampicker].
+I quietly wrote some little things to practice.
 
 Using libraries _temporarily_ freed me from the bondage of drawing `<div>`s,
 and I could focus on content.
@@ -50,6 +50,5 @@ Just like Guan Gu said:
 That's exactly the idea.
 
 [iprs]:             https://github.com/Water-Drop/iprs
-[teampicker]:       /teampicker-en
 [lorem_ipsum]:      https://en.wikipedia.org/wiki/Lorem_ipsum
 [free_code_camp]:   https://www.freecodecamp.com/

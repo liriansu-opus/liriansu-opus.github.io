@@ -1,7 +1,7 @@
 ---
 title: "Five Years After Graduation: Technology"
 date: 2020-07-12T23:45:58+08:00
-zhUrl: /adult-life-code
+translationKey: adult-life-code
 aliases:
   - /adult-life-code-en
 ---
@@ -316,8 +316,8 @@ I'd unhesitatingly keep this one:
 (To be continued)
 
 
-[tree]: /backend-skill-tree-en
-[py3]: /py2-to-py3-en
+[tree]: /en/posts/2016-12-16-backend-skill-tree-en/
+[py3]: /en/posts/2017-08-06-py2-to-py3-en/
 [wangyin]: https://www.yinwang.org/
 [km-cm]: https://github.com/kubernetes-sigs/kustomize/issues/1806
 [u-can]: /assets/u_can_learn.jpg

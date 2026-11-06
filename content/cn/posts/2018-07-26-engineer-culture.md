@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 为什么我喜欢工程师文化
-enUrl: /engineer-culture-en
+translationKey: engineer-culture
 date: '2018-07-26 22:38:44'
 aliases:
   - /engineer-culture
@@ -244,4 +244,4 @@ Sentry 上的每一个错误都有几率被抓起来吊着锤。
 [review]: /assets/pics/engineer/review.png
 [alias]: /assets/pics/engineer/alias.png
 [fire]: /assets/pics/engineer/fire.jpg
-[sentry]: /solve-a-sentry-case
+[sentry]: /posts/2018-03-22-solve-a-sentry-case/

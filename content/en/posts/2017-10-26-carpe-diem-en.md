@@ -2,7 +2,7 @@
 layout: post
 title: "The Vanishing Now"
 date: '2017-10-26 17:48:42'
-zhUrl: /carpe-diem
+translationKey: carpe-diem
 aliases:
   - /carpe-diem-en
 ---

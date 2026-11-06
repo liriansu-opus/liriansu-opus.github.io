@@ -1,7 +1,7 @@
 ---
 title: "This Year Working at DataRC"
 date: 2023-02-28T22:09:15+08:00
-zhUrl: /first-year-with-datarc
+translationKey: first-year-with-datarc
 aliases:
   - /first-year-with-datarc-en
 ---
@@ -276,9 +276,9 @@ issuing this Chuci-style lament to oneself in the new year: "I have inherent bea
 (end)
 
 
-[adult-life]: /adult-life-en
-[grandma]: /my-grandma-en
-[my-work-at-zaihui]: /my-work-en
+[adult-life]: /en/posts/2018-09-09-adult-life-en/
+[grandma]: /en/posts/2021-05-31-my-grandma-en/
+[my-work-at-zaihui]: /en/posts/2017-06-11-my-work-en/
 [nana-node]: /assets/pics/datarc/nana-node.png
 [pm-wish]: /assets/pics/datarc/pm-wish.png
 [netflix]: /assets/pics/datarc/netflix.png

@@ -1,7 +1,7 @@
 ---
 title: "How to Open a Specific Path with Finder in Mac OSX"
 date: '2016-12-26 17:01:38'
-zhUrl: /go-to-path-in-osx
+translationKey: go-to-path-in-osx
 aliases:
   - /go-to-path-in-osx-en
 layout: post

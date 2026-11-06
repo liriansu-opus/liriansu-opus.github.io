@@ -1,7 +1,7 @@
 ---
 title: "The XYZ Problem"
 date: "2017-02-22 22:22:16"
-zhUrl: /x-y-z-question
+translationKey: x-y-z-question
 aliases:
   - /x-y-z-question-en
 ---

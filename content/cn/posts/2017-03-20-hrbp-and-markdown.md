@@ -1,6 +1,6 @@
 ---
 title:     "HR与程序员的日常（一）： HRBP与Markdown"
-enUrl: /hrbp-and-markdown-en
+translationKey: hrbp-and-markdown
 date:      "2017-03-20 01:49:00"
 aliases:
   - /hrbp-and-markdown

@@ -1,7 +1,7 @@
 ---
 title:     "Solution for vagrant-up error: mount no device"
 date:      2015-05-15 10:29:05
-zhUrl:     /vagrant-up-but-mount-no-device-zh
+translationKey: vagrant-up-but-mount-no-device-zh
 aliases:
   - /vagrant-up-but-mount-no-device-en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The Death of Jack"
 date: 2010-05-27T12:00:00+08:00
-zhUrl: /death-of-jack
+translationKey: death-of-jack
 aliases:
   - /death-of-jack-en
 ---

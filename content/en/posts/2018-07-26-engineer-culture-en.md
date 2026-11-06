@@ -2,7 +2,7 @@
 layout: post
 title: "Why I Like Engineer Culture"
 date: '2018-07-26 22:38:44'
-zhUrl: /engineer-culture
+translationKey: engineer-culture
 aliases:
   - /engineer-culture-en
 ---
@@ -233,4 +233,4 @@ is that engineers themselves are also very likable.
 [review]: /assets/pics/engineer/review.png
 [alias]: /assets/pics/engineer/alias.png
 [fire]: /assets/pics/engineer/fire.jpg
-[sentry]: /solve-a-sentry-case-en
+[sentry]: /en/posts/2018-03-22-solve-a-sentry-case-en/

@@ -1,7 +1,7 @@
 ---
 title:     "Why I'm Blogging"
 date:      2015-09-23
-zhUrl: /why-im-blogging
+translationKey: why-im-blogging
 aliases:
   - /why-im-blogging-en
 ---
@@ -69,6 +69,6 @@ The current goal is one post a week, as [Jeff said][blog-frequency]:
 [Jeff Atwood]:          https://blog.codinghorror.com/about-me/
 [standards]:            https://imgs.xkcd.com/comics/standards.png
 [times-report]:         https://time.com/money/3896219/internet-users-worldwide/
-[vagrant-up-zh]:        /vagrant-up-but-mount-no-device-zh
-[vagrant-up-en]:        /vagrant-up-but-mount-no-device-en
+[vagrant-up-zh]:        /en/posts/2015-05-15-vagrant-up-but-mount-no-device-en/
+[vagrant-up-en]:        /en/posts/2015-05-15-vagrant-up-but-mount-no-device-en/
 [blog-frequency]:       https://discourse.codinghorror.com/t/how-to-achieve-ultimate-blog-success-in-one-easy-step/445/27

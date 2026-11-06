@@ -1,7 +1,7 @@
 ---
 title: "My Worldview"
 date: 2021-01-20T22:31:35+08:00
-zhUrl: /my-worldview
+translationKey: my-worldview
 aliases:
   - /my-worldview-en
 ---
@@ -186,4 +186,4 @@ by a few hundred years.
 
 [story]: https://book.douban.com/subject/1064307/
 [hacker]: https://www.bilibili.com/video/BV1az4y1D73Y
-[memories]: /adult-life-memories-en
+[memories]: /en/posts/2020-07-05-adult-life-memories-en/

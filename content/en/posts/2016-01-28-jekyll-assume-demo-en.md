@@ -1,7 +1,7 @@
 ---
 title: "Jekyll-assume demo"
 date: "2016-01-28 11:06:56"
-zhUrl: /jekyll-assume-demo
+translationKey: jekyll-assume-demo
 aliases:
   - /jekyll-assume-demo-en
 ---

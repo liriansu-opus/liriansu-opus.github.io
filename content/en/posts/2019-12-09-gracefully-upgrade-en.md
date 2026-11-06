@@ -1,7 +1,7 @@
 ---
 title: "Software Engineering Practice: Graceful Release"
 date: 2019-12-09T23:39:28+08:00
-zhUrl: /software-engineering-gracefully-upgrade
+translationKey: software-engineering-gracefully-upgrade
 aliases:
   - /software-engineering-gracefully-upgrade-en
 ---

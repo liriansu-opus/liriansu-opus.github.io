@@ -1,6 +1,6 @@
 ---
 title: "毕业五年的报告之技术"
-enUrl: /adult-life-code-en
+translationKey: adult-life-code
 date: 2020-07-12T23:45:58+08:00
 aliases:
   - /adult-life-code
@@ -317,8 +317,8 @@ nginx 层也被单独拆分了出来。
 （未完待续）
 
 
-[tree]: /backend-skill-tree
-[py3]: /py2-to-py3
+[tree]: /posts/2016-12-16-backend-skill-tree/
+[py3]: /posts/2017-08-06-py2-to-py3/
 [wangyin]: https://www.yinwang.org/
 [km-cm]: https://github.com/kubernetes-sigs/kustomize/issues/1806
 [u-can]: /assets/u_can_learn.jpg

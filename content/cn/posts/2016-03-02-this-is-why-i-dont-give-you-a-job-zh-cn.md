@@ -1,6 +1,6 @@
 ---
 title:     "为什么我不招你当我的员工"
-enUrl: /this-is-why-i-dont-give-you-a-job-zh-cn-en
+translationKey: this-is-why-i-dont-give-you-a-job-zh-cn
 date:      "2016-03-02 13:41:04"
 aliases:
   - /this-is-why-i-dont-give-you-a-job-zh-cn
@@ -236,7 +236,7 @@ aliases:
 （完）
 
 
-[hungary-post]: https://jakabandor.blog.hu/2011/07/27/tolem_ezert_nem_kapsz_munkat
+[hungary-post]: https://web.archive.org/web/20130125022229/http://jakabandor.blog.hu:80/2011/07/27/tolem_ezert_nem_kapsz_munkat?
 [english-post]: https://andorjakab.blog.hu/2012/01/06/this_is_why_i_don_t_give_you_a_job
 [protected-age]: https://en.wikipedia.org/wiki/Protected_class
 [hungary-tax]:  /assets/hungary_tax.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: "Parallax"
 date: '2017-12-04 22:29:14'
-zhUrl: /your-own-sight
+translationKey: your-own-sight
 aliases:
   - /your-own-sight-en
 ---

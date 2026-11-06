@@ -1,6 +1,6 @@
 ---
 title:     "写代码怎么偷懒？多练练"
-enUrl: /lazy-coding-practice-en
+translationKey: lazy-coding-practice
 date:      "2017-08-31 20:25:12"
 aliases:
   - /lazy-coding-practice
@@ -179,12 +179,12 @@ x = modu.sqrt(4)  # sqrt is visibly part of modu's namespace
 
 
 [xkcd-standards]: https://imgs.xkcd.com/comics/standards.png
-[thinking]: /lazy-coding-thinking
-[zaihui]: /my-work
+[thinking]: /posts/2017-08-30-lazy-coding-thinking/
+[zaihui]: /posts/2017-06-11-my-work/
 [virtualenv]: https://docs.python-guide.org/en/latest/dev/virtualenvs/
 [gofmt]: https://blog.golang.org/go-fmt-your-code
-[six]: https://pythonhosted.org/six/
+[six]: https://web.archive.org/web/20190108200827/https://pythonhosted.org/six/
 [zen]: https://www.python.org/dev/peps/pep-0020/
-[python-guide]: docs.python-guide.org/en/latest/
+[python-guide]: https://docs.python-guide.org/en/latest/
 [random-programming]: https://coolshell.cn/articles/2058.html
 

@@ -1,7 +1,7 @@
 ---
 title: "Disqus is unstable, so I started using commentit"
 date: '2016-12-22 20:20:07'
-zhUrl: /use-commentit
+translationKey: use-commentit
 aliases:
   - /use-commentit-en
 layout: post
@@ -37,10 +37,10 @@ Addition: we also need to configure direct commits to master on [commentit's con
 to become a [Contributor to this blog's GitHub project~][contributors]
 
 [disqus]:               https://disqus.com/
-[built-blog]:           /how-this-blog-was-built-en
-[disqus-template]:      https://github.com/LKI/lki.github.io/blob/b1c59b15a83fe0e0c9c2af55b15e1d3fa107c551/_includes/comments.html
-[duoshuo]:              https://duoshuo.com/
+[built-blog]:           /en/posts/2015-09-24-how-this-blog-was-built-en/
+[disqus-template]:      https://github.com/liriansu-opus/liriansu-opus.github.io/blob/b1c59b15a83fe0e0c9c2af55b15e1d3fa107c551/_includes/comments.html
+[duoshuo]:              https://web.archive.org/web/20170321004852/http://duoshuo.com/
 [commentit]:            https://commentit.io/getting-started
-[commentit-template]:   https://github.com/LKI/lki.github.io/blob/eb8e55e54fafc4effeeed8ed24ddae142829372b/_includes/comments.html
+[commentit-template]:   https://github.com/liriansu-opus/liriansu-opus.github.io/blob/eb8e55e54fafc4effeeed8ed24ddae142829372b/_includes/comments.html
 [commentit-config]:     https://commentit.io/settings?master=true&group=true
-[contributors]:         https://github.com/LKI/lki.github.io/graphs/contributors
+[contributors]:         https://github.com/liriansu-opus/liriansu-opus.github.io/graphs/contributors

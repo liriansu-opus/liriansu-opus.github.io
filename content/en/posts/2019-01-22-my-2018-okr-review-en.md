@@ -1,7 +1,7 @@
 ---
 title: "Looking Back at 2018's OKRs"
 date: "2019-01-22 22:07:02"
-zhUrl: /my-2018-okr-review
+translationKey: my-2018-okr-review
 aliases:
   - /my-2018-okr-review-en
 ---
@@ -142,4 +142,4 @@ is carving in stone.
 
 (End)
 
-[2018-okr]: /my-2018-okr-en
+[2018-okr]: /en/posts/2018-01-25-my-2018-okr-en/

@@ -1,7 +1,7 @@
 ---
 title: "How to Lead the Rhythm"
 date: "2018-04-13 22:44:45"
-zhUrl: /make-your-impact
+translationKey: make-your-impact
 aliases:
   - /make-your-impact-en
 ---

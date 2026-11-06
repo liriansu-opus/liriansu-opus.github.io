@@ -1,7 +1,7 @@
 ---
 title:     "My Friend Chen Weijie"
 date:      "2014-07-20 22:55:00"
-zhUrl: /my-friend-edward
+translationKey: my-friend-edward
 aliases:
   - /my-friend-edward-en
 ---

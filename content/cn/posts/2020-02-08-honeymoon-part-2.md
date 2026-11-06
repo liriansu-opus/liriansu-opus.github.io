@@ -1,6 +1,6 @@
 ---
 title: "旅行之二·do things matters"
-enUrl: /honeymoon-part-2-en
+translationKey: honeymoon-part-2
 date: 2020-02-08T21:48:32+01:00
 aliases:
   - /honeymoon-part-2
@@ -167,4 +167,4 @@ Mia 跟我感慨，
 （完）
 
 
-[part-1]: /honeymoon-part-1
+[part-1]: /posts/2020-01-31-honeymoon-part-1/

@@ -1,6 +1,6 @@
 ---
 title:     "写程序与取名字"
-enUrl: /naming-variable-en
+translationKey: naming-variable
 date:      "2017-06-24 19:36:17"
 aliases:
   - /naming-variable

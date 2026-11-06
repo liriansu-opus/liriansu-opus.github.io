@@ -1,7 +1,7 @@
 ---
 title: "Setting Up a Comfortable Windows Development Environment"
 date: "2017-03-24 02:00:55"
-zhUrl: /windows-dev-env
+translationKey: windows-dev-env
 aliases:
   - /windows-dev-env-en
 ---
@@ -132,7 +132,7 @@ or strong, personal taste.
 [git-scm]: https://git-scm.com/downloads
 [jetbrains]: https://www.jetbrains.com/
 [mingw]: https://www.mingw.org/
-[myconf]: https://github.com/LKI/myconf
+[myconf]: https://github.com/liriansu-opus/liriansu-opus
 [no-baidu]: https://coolshell.cn/articles/9308.html
 [putty]: https://www.putty.org/
 [vagrant]: https://www.vagrantup.com/

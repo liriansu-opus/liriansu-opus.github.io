@@ -1,6 +1,6 @@
 ---
 title:     "在Windows上安装pip"
-enUrl: /install-pip-on-windows-en
+translationKey: install-pip-on-windows
 date:      "2016-05-18 21:39:29"
 aliases:
   - /install-pip-on-windows
@@ -87,5 +87,5 @@ Windows上很多Python库都依赖于C++ 9.0，
 [path]:      /assets/python_path.jpg
 [get-pip]:   https://bootstrap.pypa.io/get-pip.py
 [pypa]:      https://pip.pypa.io/en/stable/installing/
-[vc-python]: https://www.microsoft.com/en-us/download/details.aspx?id=44266
+[vc-python]: https://web.archive.org/web/20210414074322/https://www.microsoft.com/en-us/download/details.aspx?id=44266
 [so]:        https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows

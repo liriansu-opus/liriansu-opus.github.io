@@ -1,7 +1,7 @@
 ---
 title: "Random Thoughts · Where You Sit Decides How You Think"
 date: 2022-09-26T20:00:36+08:00
-zhUrl: /thoughts-from-position
+translationKey: thoughts-from-position
 aliases:
   - /thoughts-from-position-en
 ---
@@ -141,5 +141,5 @@ and when talking about his successes, his eyes still shine.
 
 (end)
 
-[say-think-behave]: /say-think-behave-en
-[2018-okr]: /my-2018-okr-en
+[say-think-behave]: /en/posts/2021-03-15-say-think-behave-en/
+[2018-okr]: /en/posts/2018-01-25-my-2018-okr-en/

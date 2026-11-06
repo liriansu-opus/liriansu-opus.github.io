@@ -2,7 +2,7 @@
 layout: post
 title: "Lived a Bit at Low Density"
 date: '2019-06-11 22:50:03'
-zhUrl: /fuzzy-days
+translationKey: fuzzy-days
 aliases:
   - /fuzzy-days-en
 ---

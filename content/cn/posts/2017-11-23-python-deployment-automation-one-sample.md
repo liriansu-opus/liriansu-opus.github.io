@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python项目自动化部署之一：举个栗子
-enUrl: /python-deployment-automation-one-sample-en
+translationKey: python-deployment-automation-one-sample
 date: '2017-11-23 16:49:57'
 aliases:
   - /python-deployment-automation-one-sample
@@ -202,6 +202,6 @@ nginx    STARTING    pid 1020, uptime 0:00:00
 [invoke]: https://www.pyinvoke.org/
 [invoker]: https://dota2.gamepedia.com/Invoker
 [supervisor]: https://supervisord.org/
-[self]: /python-deployment-automation-one-sample
+[self]: /posts/2017-11-23-python-deployment-automation-one-sample/
 [about-me]: /about/
 

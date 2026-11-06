@@ -1,6 +1,6 @@
 ---
 title:     "Javascript之路"
-enUrl: /learning-javascript-en
+translationKey: learning-javascript
 date:      2015-12-21 17:26:52
 aliases:
   - /learning-javascript
@@ -30,7 +30,7 @@ aliases:
 ## Bootstrap
 
 虽然一直是网页苦手，但是由于网页其实是最简单而且最方便的展示手段（比PPT要强）
-于是我默默地[写些小东西练手][teampicker]。
+于是我默默地写些小东西练手。
 
 对于库的利用使我_暂时_脱离了画`<div>`的束缚，
 可以专注于内容了。
@@ -50,6 +50,5 @@ aliases:
 就是这么个道理。
 
 [iprs]:             https://github.com/Water-Drop/iprs
-[teampicker]:       /teampicker
 [lorem_ipsum]:      https://en.wikipedia.org/wiki/Lorem_ipsum
 [free_code_camp]:   https://www.freecodecamp.com/

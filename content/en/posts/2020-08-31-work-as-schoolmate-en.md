@@ -1,7 +1,7 @@
 ---
 title: "A Few Stories of Shentong Middle School"
 date: 2020-08-31T19:45:02+08:00
-zhUrl: /work-as-schoolmate
+translationKey: work-as-schoolmate
 aliases:
   - /work-as-schoolmate-en
 ---

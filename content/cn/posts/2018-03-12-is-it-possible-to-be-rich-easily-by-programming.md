@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 链家小哥问我：听说搞IT的培训三个月就可以月入上万，是真的吗？
-enUrl: /is-it-possible-to-be-rich-easily-by-programming-en
+translationKey: is-it-possible-to-be-rich-easily-by-programming
 date: '2018-03-12 23:22:10'
 aliases:
   - /is-it-possible-to-be-rich-easily-by-programming

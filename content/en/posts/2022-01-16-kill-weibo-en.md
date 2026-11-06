@@ -1,7 +1,7 @@
 ---
 title: "2021, My Weibo Is Gone"
 date: 2022-01-16T19:52:27+08:00
-zhUrl: /kill-weibo
+translationKey: kill-weibo
 aliases:
   - /kill-weibo-en
 ---

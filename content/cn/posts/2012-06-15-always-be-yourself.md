@@ -1,6 +1,6 @@
 ---
 title: "想写一个小故事，姑且写之"
-enUrl: /always-be-yourself-en
+translationKey: always-be-yourself
 date: 2012-06-15T12:52:30+08:00
 aliases:
   - /always-be-yourself

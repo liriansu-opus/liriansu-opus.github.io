@@ -1,7 +1,7 @@
 ---
 title: "My 2016 Reading List"
 date: "2016-02-15 11:07:57"
-zhUrl: /my-reading-list-2016
+translationKey: my-reading-list-2016
 aliases:
   - /my-reading-list-2016-en
 ---

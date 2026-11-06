@@ -1,7 +1,7 @@
 ---
 title: "[Anecdote] Why isn't requests a Python standard library?"
 date:      "2019-10-30 22:32:20"
-zhUrl: /anecdote-why-requests-not-standard
+translationKey: anecdote-why-requests-not-standard
 aliases:
   - /anecdote-why-requests-not-standard-en
 ---

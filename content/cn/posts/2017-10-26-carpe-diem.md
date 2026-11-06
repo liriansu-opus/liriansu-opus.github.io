@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 消逝的此刻
-enUrl: /carpe-diem-en
+translationKey: carpe-diem
 date: '2017-10-26 17:48:42'
 aliases:
   - /carpe-diem

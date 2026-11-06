@@ -1,9 +1,6 @@
 ---
 layout: page
 title: About
-zhUrl: /about/
-aliases:
-  - /en/about/
 ---
 
 Hi friend.
@@ -168,36 +165,36 @@ The editor I've been using lately:
 
 <figure><embed src="https://wakatime.com/share/@65efbae2-afbf-4a69-8ee5-194f43ef9289/6d5b6087-b30c-4d0a-ae8c-d220f6726ce0.svg" /></figure>
 
-[CVC]: /lazy-coding-thinking-en
+[CVC]: /en/posts/2017-08-30-lazy-coding-thinking-en/
 [GUT]: https://en.wikipedia.org/wiki/Grand_Unified_Theory
-[build-blog]: /how-this-blog-was-built-en
-[commentit]: /use-commentit-en
-[git]: /philosophy-of-git-en
+[build-blog]: /en/posts/2015-09-24-how-this-blog-was-built-en/
+[commentit]: /en/posts/2016-12-22-use-commentit-en/
+[git]: /en/posts/2018-02-10-philosophy-of-git-en/
 [jekyll.com]: https://jekyllrb.com/
 [kezaihui]: https://www.kezaihui.com/
-[ldsink]: /my-friend-ldsink-en
-[lki.github.io]: https://github.com/LKI/lki.github.io
-[logic]: /programmers-logic-en
-[play]: /play-gba-with-danmaku-en
-[my-gf]: /how-to-lose-in-rock-paper-scissors-en
-[cash-cow]: /what-is-cash-cow-en
-[hunter2]: /hunter2-meme-en
+[ldsink]: /en/posts/2018-03-03-my-friend-ldsink-en/
+[lki.github.io]: https://github.com/liriansu-opus/liriansu-opus.github.io
+[logic]: /en/posts/2017-10-31-programmers-logic-en/
+[play]: /en/posts/2018-01-06-play-gba-with-danmaku-en/
+[my-gf]: /en/posts/2015-11-08-how-to-lose-in-rock-papar-scissors-en/
+[cash-cow]: /en/posts/2017-07-27-what-is-cash-cow-en/
+[hunter2]: /en/posts/2017-03-26-hunter2-meme-en/
 [perl]: https://learnxinyminutes.com/docs/perl/
 [python-zen]: https://www.python.org/dev/peps/pep-0020/
-[work]: /my-work-en
-[read-blog]: /read-blogs-to-write-blogs-en
+[work]: /en/posts/2017-06-11-my-work-en/
+[read-blog]: /en/posts/2016-02-29-read-blogs-to-write-blogs-en/
 [sudoku]: https://cojs.tk/cogs/problem/problem.php?pid=407
-[vim]: /use-vundle-for-dotvim-en
-[why-blog]: /why-im-blogging-en
+[vim]: /en/posts/2016-12-18-use-vundle-for-dotvim-en/
+[why-blog]: /en/posts/2015-09-23-why-im-blogging-en/
 [wiki-QAD]: https://en.wikipedia.org/wiki/QAD_Inc
-[win-env]: /windows-dev-env-en
+[win-env]: /en/posts/2017-03-24-windows-dev-env-en/
 [xkcd-246]: https://imgs.xkcd.com/comics/labyrinth_puzzle.png
 [zhoucheng]: https://www.zhihu.com/people/ldsink/activities
-[myconf]: https://github.com/LKI/LKI
-[chinese-calendar]: https://github.com/LKI/chinese-calendar
+[myconf]: https://github.com/liriansu-opus/liriansu-opus
+[chinese-calendar]: https://github.com/liriansu-opus/chinese-calendar
 [zhihu-zaihui]: https://www.zhihu.com/question/19596230/answer/152193862
 [arcticdata]: https://datarc.cn/
-[ways-in-zaihui]: /ways-in-zaihui-en
+[ways-in-zaihui]: /en/posts/2022-02-24-ways-in-zaihui-en/
 [gohugo.io]: https://gohugo.io/
 [booktalk]: https://www.xiaoyuzhoufm.com/podcast/6354b5052a992d56e91e6520
-[datarc-experience]: /first-year-with-datarc-en
+[datarc-experience]: /en/posts/2023-02-28-first-year-with-datarc-en/

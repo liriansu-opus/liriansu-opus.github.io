@@ -1,6 +1,6 @@
 ---
 title:     "如何构建工程师团队"
-enUrl: /developer-team-en
+translationKey: developer-team
 date:      "2019-01-28 23:46:45"
 aliases:
   - /developer-team
@@ -553,17 +553,17 @@ Mia 去年升职为 Manager 以后，
 
 
 [as_leader]: /assets/pics/weibo/as_leader.png
-[thinking]: /about-active-thinking
-[pareto]: /pareto-rule-of-programmers
-[give-a-job]: /this-is-why-i-dont-give-you-a-job-zh-cn
-[day-dream]: /is-it-possible-to-be-rich-easily-by-programming
+[thinking]: /posts/2019-01-23-about-active-thinking/
+[pareto]: /posts/2017-07-25-pareto-rule-of-programmers/
+[give-a-job]: /posts/2016-03-02-this-is-why-i-dont-give-you-a-job-zh-cn/
+[day-dream]: /posts/2018-03-12-is-it-possible-to-be-rich-easily-by-programming/
 [verse]: https://baike.baidu.com/item/%E5%86%99%E7%BB%99%E6%9C%AA%E6%9D%A5%E7%9A%84%E4%BD%A0/20830750
 [lead]: https://zhuanlan.zhihu.com/p/20232566
 [dilemma]: https://daily.zhihu.com/story/9362305
-[adult-life]: /adult-life
+[adult-life]: /posts/2018-09-09-adult-life/
 [tonegawa]: https://www.bilibili.com/bangumi/media/md102632/
-[culture]: /engineer-culture
-[habits]: /my-programmer-habits
-[interview]: /what-a-hard-backend-interview
-[chat]: /a-chat-with-roommates
-[chat2]: /a-chat-with-schoolmates
+[culture]: /posts/2018-07-26-engineer-culture/
+[habits]: /posts/2017-07-01-my-programmer-habits/
+[interview]: /posts/2017-03-08-what-a-hard-backend-interview/
+[chat]: /posts/2015-06-12-a-chat-with-roommates/
+[chat2]: /posts/2018-08-11-a-chat-with-schoolmates/

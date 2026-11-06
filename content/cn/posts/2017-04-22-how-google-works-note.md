@@ -1,6 +1,6 @@
 ---
 title:     "我可能看了假的技术书"
-enUrl: /how-google-works-note-en
+translationKey: how-google-works-note
 date:      "2017-04-22 01:48:05"
 aliases:
   - /how-google-works-note

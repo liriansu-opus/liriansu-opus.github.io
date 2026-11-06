@@ -2,7 +2,7 @@
 layout: post
 title: "Losing Strategies in Rock Paper Scissors"
 date: 2015-11-08T21:01:28.000Z
-zhUrl: /how-to-lose-in-rock-paper-scissors
+translationKey: how-to-lose-in-rock-paper-scissors
 aliases:
   - /how-to-lose-in-rock-paper-scissors-en
 ---

@@ -1,6 +1,6 @@
 ---
 title:     "记一次有意义的吹B"
-enUrl: /a-chat-with-roommates-en
+translationKey: a-chat-with-roommates
 date:      "2015-06-12 22:06:00"
 aliases:
   - /a-chat-with-roommates

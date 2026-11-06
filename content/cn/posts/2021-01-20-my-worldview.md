@@ -1,6 +1,6 @@
 ---
 title: "我的世界观"
-enUrl: /my-worldview-en
+translationKey: my-worldview
 date: 2021-01-20T22:31:35+08:00
 aliases:
   - /my-worldview
@@ -186,5 +186,5 @@ aliases:
 
 [story]: https://book.douban.com/subject/1064307/
 [hacker]: https://www.bilibili.com/video/BV1az4y1D73Y
-[memories]: /adult-life-memories
+[memories]: /posts/2020-07-05-adult-life-memories/
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Use Search Engines"
 date: "2017-11-19 21:52:07"
-zhUrl: /how-to-google
+translationKey: how-to-google
 aliases:
   - /how-to-google-en
 ---
@@ -153,4 +153,4 @@ Congratulations, you've become a master in others' eyes!
 (confetti)
 
 [anti-baidu]: https://coolshell.cn/articles/9308.html
-[xyz]: /x-y-z-question-en
+[xyz]: /en/posts/2017-02-22-x-y-z-question-en/

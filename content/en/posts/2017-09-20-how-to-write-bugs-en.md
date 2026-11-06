@@ -2,7 +2,7 @@
 layout: post
 title: "How to Write Bugs"
 date: '2017-09-20 19:49:38'
-zhUrl: /how-to-write-bugs
+translationKey: how-to-write-bugs
 aliases:
   - /how-to-write-bugs-en
 ---
@@ -507,6 +507,6 @@ Still need to keep training.
 
 [_This article's ideas mimic "How To Write Unmaintainable Code"_][bad-code]
 
-[pareto]: /pareto-rule-of-programmers-en
+[pareto]: /en/posts/2017-07-25-pareto-rule-of-programmers-en/
 [bumblebee]: https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/commit/a047be85247755cdbe0acce6#diff-1
 [bad-code]: https://coolshell.cn/articles/4758.html

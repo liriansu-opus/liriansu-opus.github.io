@@ -2,7 +2,7 @@
 layout: post
 title: "The 80/20 Rule of Programmers"
 date: '2017-07-25 23:15:51'
-zhUrl: /pareto-rule-of-programmers
+translationKey: pareto-rule-of-programmers
 aliases:
   - /pareto-rule-of-programmers-en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Travel I · Maybe Can't Get Back Home"
 date: 2020-01-31T06:38:22+01:00
-zhUrl: /honeymoon-part-1
+translationKey: honeymoon-part-1
 aliases:
   - /honeymoon-part-1-en
 ---

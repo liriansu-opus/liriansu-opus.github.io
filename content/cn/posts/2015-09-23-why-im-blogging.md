@@ -1,6 +1,6 @@
 ---
 title:     "为什么我要写博客"
-enUrl: /why-im-blogging-en
+translationKey: why-im-blogging
 date:      2015-09-23
 aliases:
   - /why-im-blogging
@@ -69,6 +69,6 @@ XKCD的自我描述是
 [Jeff Atwood]:          https://blog.codinghorror.com/about-me/
 [standards]:            https://imgs.xkcd.com/comics/standards.png
 [times-report]:         https://time.com/money/3896219/internet-users-worldwide/
-[vagrant-up-zh]:        /vagrant-up-but-mount-no-device-zh
-[vagrant-up-en]:        /vagrant-up-but-mount-no-device-en
+[vagrant-up-zh]:        /posts/2015-05-15-vagrant-up-but-mount-no-device-zh/
+[vagrant-up-en]:        /posts/2015-05-15-vagrant-up-but-mount-no-device-zh/
 [blog-frequency]:       https://discourse.codinghorror.com/t/how-to-achieve-ultimate-blog-success-in-one-easy-step/445/27

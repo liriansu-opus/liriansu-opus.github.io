@@ -1,7 +1,7 @@
 ---
 title: "Git Beginner's Tutorial"
 date: "2016-09-19 16:04:00"
-zhUrl: /git-first-lesson
+translationKey: git-first-lesson
 aliases:
   - /git-first-lesson-en
 ---

@@ -1,6 +1,6 @@
 ---
 title: "毕业五年的报告之团队"
-enUrl: /adult-life-teamwork-en
+translationKey: adult-life-teamwork
 date: 2020-07-06T23:45:13+08:00
 aliases:
   - /adult-life-teamwork

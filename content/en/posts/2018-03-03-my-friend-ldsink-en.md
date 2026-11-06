@@ -2,7 +2,7 @@
 layout: post
 title: "My Friend Liu Ningning"
 date: '2018-03-03 20:39:48'
-zhUrl: /my-friend-ldsink
+translationKey: my-friend-ldsink
 aliases:
   - /my-friend-ldsink-en
 ---
@@ -226,5 +226,5 @@ Probably it's a kind of "I've got your back" peace of mind.
 
 That's my friend, Liu Ningning.
 
-[py3]: /py2-to-py3-en
+[py3]: /en/posts/2017-08-06-py2-to-py3-en/
 [toolbox]: https://github.com/ldsink/toolbox

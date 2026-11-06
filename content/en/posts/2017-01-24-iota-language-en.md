@@ -1,7 +1,7 @@
 ---
 title: "The Most Minimal Programming Language: Iota"
 date: '2017-01-24 13:07:50'
-zhUrl: /iota-language
+translationKey: iota-language
 aliases:
   - /iota-language-en
 layout: post

@@ -1,7 +1,7 @@
 ---
 title: "Building a Pure Static Blog Without Hosting Your Own Server"
 date: 2019-11-19T01:00:07+08:00
-zhUrl: /build-a-staic-blog
+translationKey: build-a-staic-blog
 aliases:
   - /build-a-staic-blog-en
 ---
@@ -194,7 +194,7 @@ because after all, **life is in the tinkering**."
 
 
 [commentit]: https://github.com/jillro/commentit
-[lki-build-jekyll]: /how-this-blog-was-built-en
+[lki-build-jekyll]: /en/posts/2015-09-24-how-this-blog-was-built-en/
 [hugo]: https://gohugo.io/
 [hugo-install]: https://gohugo.io/getting-started/installing
 [hugo-quickstart]: https://gohugo.io/getting-started/quick-start/

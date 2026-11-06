@@ -1,6 +1,6 @@
 ---
 title: "软件工程实践之平滑发版"
-enUrl: /software-engineering-gracefully-upgrade-en
+translationKey: software-engineering-gracefully-upgrade
 date: 2019-12-09T23:39:28+08:00
 aliases:
   - /software-engineering-gracefully-upgrade

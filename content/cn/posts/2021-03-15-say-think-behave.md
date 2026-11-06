@@ -1,6 +1,6 @@
 ---
 title: "我言、我知、我行"
-enUrl: /say-think-behave-en
+translationKey: say-think-behave
 date: 2021-03-15T23:03:39+08:00
 aliases:
   - /say-think-behave
@@ -118,7 +118,7 @@ aliases:
 
 ## 生死·或重于泰山，或轻于鸿毛
 
-就如同在[《消逝的此刻》](/carpe-diem)中感慨的一样，
+就如同在[《消逝的此刻》](/posts/2017-10-26-carpe-diem/)中感慨的一样，
 我一直不太能接受“人固有一死”这个事实。
 
 有这么一把达摩克利斯之剑悬在头上，

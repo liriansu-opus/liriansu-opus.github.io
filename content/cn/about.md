@@ -1,9 +1,6 @@
 ---
 layout: page
 title: 关于我
-enUrl: /en/about/
-aliases:
-  - /about/
 comments:
   - author:
       type: full
@@ -267,36 +264,36 @@ Life is short, I use Python.
 
 <figure><embed src="https://wakatime.com/share/@65efbae2-afbf-4a69-8ee5-194f43ef9289/6d5b6087-b30c-4d0a-ae8c-d220f6726ce0.svg" /></figure>
 
-[CVC]: /lazy-coding-thinking
+[CVC]: /posts/2017-08-30-lazy-coding-thinking/
 [GUT]: https://en.wikipedia.org/wiki/Grand_Unified_Theory
-[build-blog]: /how-this-blog-was-built
-[commentit]: /use-commentit
-[git]: /philosophy-of-git
+[build-blog]: /posts/2015-09-24-how-this-blog-was-built/
+[commentit]: /posts/2016-12-22-use-commentit/
+[git]: /posts/2018-02-10-philosophy-of-git/
 [jekyll.com]: https://jekyllrb.com/
 [kezaihui]: https://www.kezaihui.com/
-[ldsink]: /my-friend-ldsink
+[ldsink]: /posts/2018-03-03-my-friend-ldsink/
 [lki.github.io]: https://github.com/liriansu-opus/liriansu-opus.github.io
-[logic]: /programmers-logic
-[play]: /play-gba-with-danmaku
-[my-gf]: /how-to-lose-in-rock-paper-scissors
-[cash-cow]: /what-is-cash-cow
-[hunter2]: /hunter2-meme
+[logic]: /posts/2017-10-31-programmers-logic/
+[play]: /posts/2018-01-06-play-gba-with-danmaku/
+[my-gf]: /posts/2015-11-08-how-to-lose-in-rock-papar-scissors/
+[cash-cow]: /posts/2017-07-27-what-is-cash-cow/
+[hunter2]: /posts/2017-03-26-hunter2-meme/
 [perl]: https://learnxinyminutes.com/docs/perl/
 [python-zen]: https://www.python.org/dev/peps/pep-0020/
-[work]: /my-work
-[read-blog]: /read-blogs-to-write-blogs
+[work]: /posts/2017-06-11-my-work/
+[read-blog]: /posts/2016-02-29-read-blogs-to-write-blogs/
 [sudoku]: https://cojs.tk/cogs/problem/problem.php?pid=407
-[vim]: /use-vundle-for-dotvim
-[why-blog]: /why-im-blogging
+[vim]: /posts/2016-12-18-use-vundle-for-dotvim/
+[why-blog]: /posts/2015-09-23-why-im-blogging/
 [wiki-QAD]: https://en.wikipedia.org/wiki/QAD_Inc
-[win-env]: /windows-dev-env
+[win-env]: /posts/2017-03-24-windows-dev-env/
 [xkcd-246]: https://imgs.xkcd.com/comics/labyrinth_puzzle.png
 [zhoucheng]: https://www.zhihu.com/people/ldsink/activities
 [myconf]: https://github.com/liriansu-opus/liriansu-opus
 [chinese-calendar]: https://github.com/liriansu-opus/chinese-calendar
 [zhihu-zaihui]: https://www.zhihu.com/question/19596230/answer/152193862
 [arcticdata]: https://datarc.cn/
-[ways-in-zaihui]: /ways-in-zaihui
+[ways-in-zaihui]: /posts/2022-02-24-ways-in-zaihui/
 [gohugo.io]: https://gohugo.io/
 [booktalk]: https://www.xiaoyuzhoufm.com/podcast/6354b5052a992d56e91e6520
-[datarc-experience]: /first-year-with-datarc
+[datarc-experience]: /posts/2023-02-28-first-year-with-datarc/

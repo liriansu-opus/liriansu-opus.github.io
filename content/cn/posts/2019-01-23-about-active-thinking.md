@@ -1,6 +1,6 @@
 ---
 title:     "积极面思考"
-enUrl: /about-active-thinking-en
+translationKey: about-active-thinking
 date:      "2019-01-23 23:25:20"
 aliases:
   - /about-active-thinking
@@ -139,6 +139,6 @@ Zen of Python 里也说过：`Now is better than never.`
 
 （完）
 
-[habits]: /my-programmer-habits
-[adult]: /adult-life
-[wander]: /weekly-wander
+[habits]: /posts/2017-07-01-my-programmer-habits/
+[adult]: /posts/2018-09-09-adult-life/
+[wander]: /posts/2018-06-05-weekly-wander/

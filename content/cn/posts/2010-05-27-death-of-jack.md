@@ -1,6 +1,6 @@
 ---
 title: "杰克之死"
-enUrl: /death-of-jack-en
+translationKey: death-of-jack
 date: 2010-05-27T12:00:00+08:00
 aliases:
   - /death-of-jack

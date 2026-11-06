@@ -2,7 +2,7 @@
 layout: post
 title: "How to Play with GitHub"
 date: '2017-07-18 23:15:49'
-zhUrl: /how-i-use-github
+translationKey: how-i-use-github
 aliases:
   - /how-i-use-github-en
 ---

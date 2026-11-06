@@ -1,7 +1,7 @@
 ---
 title: "What's the Cash Cow Meme?"
 date: "2017-07-27 22:31:18"
-zhUrl: /what-is-cash-cow
+translationKey: what-is-cash-cow
 aliases:
   - /what-is-cash-cow-en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "My Grandma"
 date: 2021-05-31T22:37:13+08:00
-zhUrl: /my-grandma
+translationKey: my-grandma
 aliases:
   - /my-grandma-en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Five Years After Graduation: Memories"
 date: 2020-07-05T21:46:03+08:00
-zhUrl: /adult-life-memories
+translationKey: adult-life-memories
 aliases:
   - /adult-life-memories-en
 ---
@@ -257,5 +257,5 @@ so embrace every input as much as possible.
 
 (To be continued)
 
-[adult-life]: /adult-life-en/
-[hr]: /what-a-hard-backend-interview-en
+[adult-life]: /en/posts/2018-09-09-adult-life-en/
+[hr]: /en/posts/2017-03-08-what-a-hard-backend-interview-en/

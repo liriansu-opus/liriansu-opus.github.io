@@ -1,6 +1,6 @@
 ---
 title: "为拼多多而死，不值得"
-enUrl: /no-more-dying-for-pinduoduo-en
+translationKey: no-more-dying-for-pinduoduo
 date: 2021-01-05T20:21:20+08:00
 aliases:
   - /no-more-dying-for-pinduoduo

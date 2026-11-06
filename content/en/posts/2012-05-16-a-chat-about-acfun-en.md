@@ -1,7 +1,7 @@
 ---
 title: "Yesterday's Chat with a Friend About Danmaku Sites, and Some Thoughts"
 date: 2012-05-16T12:48:16+08:00
-zhUrl: /a-chat-about-acfun
+translationKey: a-chat-about-acfun
 aliases:
   - /a-chat-about-acfun-en
 ---

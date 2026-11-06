@@ -1,7 +1,7 @@
 ---
 title: "Positive-Side Thinking"
 date: "2019-01-23 23:25:20"
-zhUrl: /about-active-thinking
+translationKey: about-active-thinking
 aliases:
   - /about-active-thinking-en
 ---
@@ -139,6 +139,6 @@ Of course, just thinking is not enough, there must also be corresponding action.
 
 (End)
 
-[habits]: /my-programmer-habits-en
-[adult]: /adult-life-en
-[wander]: /weekly-wander-en
+[habits]: /en/posts/2017-07-01-my-programmer-habits-en/
+[adult]: /en/posts/2018-09-09-adult-life-en/
+[wander]: /en/posts/2018-06-05-weekly-wander-en/

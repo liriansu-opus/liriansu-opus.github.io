@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我的女友小米娅
-enUrl: /my-little-mia-en
+translationKey: my-little-mia
 date: '2018-01-13 08:06:16'
 aliases:
   - /my-little-mia

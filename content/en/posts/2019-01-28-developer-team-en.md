@@ -1,7 +1,7 @@
 ---
 title: "How to Build an Engineer Team"
 date: "2019-01-28 23:46:45"
-zhUrl: /developer-team
+translationKey: developer-team
 aliases:
   - /developer-team-en
 ---
@@ -553,17 +553,17 @@ think, persist.
 
 
 [as_leader]: /assets/pics/weibo/as_leader.png
-[thinking]: /about-active-thinking-en
-[pareto]: /pareto-rule-of-programmers-en
-[give-a-job]: /this-is-why-i-dont-give-you-a-job-zh-cn-en
-[day-dream]: /is-it-possible-to-be-rich-easily-by-programming-en
+[thinking]: /en/posts/2019-01-23-about-active-thinking-en/
+[pareto]: /en/posts/2017-07-25-pareto-rule-of-programmers-en/
+[give-a-job]: /en/posts/2016-03-02-this-is-why-i-dont-give-you-a-job-zh-cn-en/
+[day-dream]: /en/posts/2018-03-12-is-it-possible-to-be-rich-easily-by-programming-en/
 [verse]: https://baike.baidu.com/item/%E5%86%99%E7%BB%99%E6%9C%AA%E6%9D%A5%E7%9A%84%E4%BD%A0/20830750
 [lead]: https://zhuanlan.zhihu.com/p/20232566
 [dilemma]: https://daily.zhihu.com/story/9362305
-[adult-life]: /adult-life-en
+[adult-life]: /en/posts/2018-09-09-adult-life-en/
 [tonegawa]: https://www.bilibili.com/bangumi/media/md102632/
-[culture]: /engineer-culture-en
-[habits]: /my-programmer-habits-en
-[interview]: /what-a-hard-backend-interview-en
-[chat]: /a-chat-with-roommates-en
-[chat2]: /a-chat-with-schoolmates-en
+[culture]: /en/posts/2018-07-26-engineer-culture-en/
+[habits]: /en/posts/2017-07-01-my-programmer-habits-en/
+[interview]: /en/posts/2017-03-08-what-a-hard-backend-interview-en/
+[chat]: /en/posts/2015-06-12-a-chat-with-roommates-en/
+[chat2]: /en/posts/2018-08-11-a-chat-with-schoolmates-en/

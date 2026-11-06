@@ -2,7 +2,7 @@
 layout: post
 title: "My Girlfriend Little Mia"
 date: '2018-01-13 08:06:16'
-zhUrl: /my-little-mia
+translationKey: my-little-mia
 aliases:
   - /my-little-mia-en
 ---

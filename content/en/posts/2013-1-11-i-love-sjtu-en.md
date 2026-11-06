@@ -1,7 +1,7 @@
 ---
 title: "Damn It, SJTU"
 date: 2013-01-11 19:57:00
-zhUrl: /i-love-sjtu
+translationKey: i-love-sjtu
 aliases:
   - /i-love-sjtu-en
 ---

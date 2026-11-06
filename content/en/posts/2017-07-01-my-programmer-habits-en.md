@@ -1,7 +1,7 @@
 ---
 title: "My Personality as a Programmer"
 date: "2017-07-02 00:20:23"
-zhUrl: /my-programmer-habits
+translationKey: my-programmer-habits
 aliases:
   - /my-programmer-habits-en
 ---

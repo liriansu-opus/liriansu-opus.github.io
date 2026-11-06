@@ -1,7 +1,7 @@
 ---
 title: "Travel II · do things matters"
 date: 2020-02-08T21:48:32+01:00
-zhUrl: /honeymoon-part-2
+translationKey: honeymoon-part-2
 aliases:
   - /honeymoon-part-2-en
 ---
@@ -167,4 +167,4 @@ there's only one you in the world,
 (End)
 
 
-[part-1]: /honeymoon-part-1-en
+[part-1]: /en/posts/2020-01-31-honeymoon-part-1-en/

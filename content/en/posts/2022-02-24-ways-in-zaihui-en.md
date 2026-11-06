@@ -1,7 +1,7 @@
 ---
 title: "Five Things Zaihui Taught Me"
 date: 2022-02-24T18:00:00+08:00
-zhUrl: /ways-in-zaihui
+translationKey: ways-in-zaihui
 aliases:
   - /ways-in-zaihui-en
 ---

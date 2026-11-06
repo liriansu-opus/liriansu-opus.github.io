@@ -1,6 +1,6 @@
 ---
 title: "我的金钱观"
-enUrl: /my-concept-of-money-en
+translationKey: my-concept-of-money
 date: 2021-03-18T20:41:35+08:00
 aliases:
   - /my-concept-of-money
@@ -59,7 +59,7 @@ aliases:
 
 > “听说搞IT的培训三个月就月入上万，是真的吗？”
 > “可以是真的。”
-> 《[链家小哥问我：听说搞IT的培训三个月就可以月入上万，是真的吗？](/is-it-possible-to-be-rich-easily-by-programming)》
+> 《[链家小哥问我：听说搞IT的培训三个月就可以月入上万，是真的吗？](/posts/2018-03-12-is-it-possible-to-be-rich-easily-by-programming/)》
 
 劳动最光荣是中华民族的传统美德。
 程序员朋友们的绝大部分收入都来自于劳动，
@@ -115,7 +115,7 @@ aliases:
 然后从山顶一直滑翔至今，
 期间收获了无数的表情包、梗图以及段子笑话。
 
-在《[室友聊天](/a-chat-with-roommates)》的年代，
+在《[室友聊天](/posts/2015-06-12-a-chat-with-roommates/)》的年代，
 我便抱着一种朴素的财富自由观：
 
 假设工作 10 年攒够 100W，

@@ -1,7 +1,7 @@
 ---
 title: "Recent Weekly Routine with My Girlfriend"
 date: "2018-06-05 00:22:48"
-zhUrl: /weekly-wander
+translationKey: weekly-wander
 aliases:
   - /weekly-wander-en
 ---

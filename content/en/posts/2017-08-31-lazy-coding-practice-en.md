@@ -1,7 +1,7 @@
 ---
 title: "How to Be Lazy When Writing Code? Practice More"
 date: "2017-08-31 20:25:12"
-zhUrl: /lazy-coding-practice
+translationKey: lazy-coding-practice
 aliases:
   - /lazy-coding-practice-en
 ---
@@ -178,11 +178,11 @@ After all, programming style can't be [shotgun programming][random-programming].
 
 
 [xkcd-standards]: https://imgs.xkcd.com/comics/standards.png
-[thinking]: /lazy-coding-thinking-en
-[zaihui]: /my-work-en
+[thinking]: /en/posts/2017-08-30-lazy-coding-thinking-en/
+[zaihui]: /en/posts/2017-06-11-my-work-en/
 [virtualenv]: https://docs.python-guide.org/en/latest/dev/virtualenvs/
 [gofmt]: https://blog.golang.org/go-fmt-your-code
-[six]: https://pythonhosted.org/six/
+[six]: https://web.archive.org/web/20190108200827/https://pythonhosted.org/six/
 [zen]: https://www.python.org/dev/peps/pep-0020/
-[python-guide]: docs.python-guide.org/en/latest/
+[python-guide]: https://docs.python-guide.org/en/latest/
 [random-programming]: https://coolshell.cn/articles/2058.html

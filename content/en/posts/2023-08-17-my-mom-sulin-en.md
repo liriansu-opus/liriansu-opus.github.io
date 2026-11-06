@@ -1,7 +1,7 @@
 ---
 title: "My Mom Su Lin"
 date: 2023-08-17T22:06:52+08:00
-zhUrl: /my-mom-sulin
+translationKey: my-mom-sulin
 aliases:
   - /my-mom-sulin-en
 ---

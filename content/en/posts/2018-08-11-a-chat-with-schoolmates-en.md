@@ -1,7 +1,7 @@
 ---
 title: "Company Culture, Salary and Stock Options, Dev Experience — The Joys and Sorrows of a Frontline Programmer"
 date: "2018-08-11 23:55:50"
-zhUrl: /a-chat-with-schoolmates
+translationKey: a-chat-with-schoolmates
 aliases:
   - /a-chat-with-schoolmates-en
 ---

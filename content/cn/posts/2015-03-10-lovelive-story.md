@@ -1,6 +1,6 @@
 ---
 title: "与LL患者的对话"
-enUrl: /lovelive-story-en
+translationKey: lovelive-story
 date: 2015-03-10 19:43:00
 aliases:
   - /lovelive-story

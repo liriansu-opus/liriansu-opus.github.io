@@ -1,7 +1,7 @@
 ---
 title: "How to Pronounce Vim, Tmux, Zsh"
 date: "2017-05-12 22:41:02"
-zhUrl: /pronunciations
+translationKey: pronunciations
 aliases:
   - /pronunciations-en
 ---

@@ -1,6 +1,6 @@
 ---
 title:     "创建GitHub项目主页"
-enUrl: /create-github-repository-page-en
+translationKey: create-github-repository-page
 date:      "2016-03-15 21:19:53"
 aliases:
   - /create-github-repository-page
@@ -58,11 +58,11 @@ GitHub Pages是一个让用户很方便托管项目网页在GitHub的服务。
 
 3. 假如不是绝妙的hack就要追求best practice.
 
-[build-blog]: /how-this-blog-was-built
+[build-blog]: /posts/2015-09-24-how-this-blog-was-built/
 [lki-github]: https://github.com/liriansu-opus/liriansu-opus.github.io
 [git-submodule]: https://github.com/liriansu-opus/liriansu-opus.github.io/commit/86d73353e4b8f93ea7e759fb0d2f47b5d9ad8904
 [remove-submodule]: https://stackoverflow.com/questions/1260748/how-do-i-remove-a-submodule
 [zhangwenli]: https://zhangwenli.com/
 [issue3]: https://github.com/Ovilia/cv/issues/3
 [git-mymenu]: https://github.com/liriansu-opus/mymenu
-[mymenu]: /mymenu
+[mymenu]: /mymenu/

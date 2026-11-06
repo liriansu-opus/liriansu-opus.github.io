@@ -1,7 +1,7 @@
 ---
 title: "A Possible Fear of Marriage"
 date: 2015-02-28 00:11:00
-zhUrl: /marry-or-not
+translationKey: marry-or-not
 aliases:
   - /marry-or-not-en
 ---

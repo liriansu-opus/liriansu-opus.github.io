@@ -1,7 +1,7 @@
 ---
 title: "What's New in Python These Years"
 date: 2021-10-21T20:26:58+08:00
-zhUrl: /whats-new-in-python-these-years
+translationKey: whats-new-in-python-these-years
 aliases:
   - /whats-new-in-python-these-years-en
 ---

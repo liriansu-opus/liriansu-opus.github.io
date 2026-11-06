@@ -1,7 +1,7 @@
 ---
 title: "What I Say, What I Know, What I Do"
 date: 2021-03-15T23:03:39+08:00
-zhUrl: /say-think-behave
+translationKey: say-think-behave
 aliases:
   - /say-think-behave-en
 ---
@@ -118,7 +118,7 @@ And how many really can do this?
 
 ## Life and Death · Heavier Than Mount Tai, or Lighter Than a Feather
 
-Just like I lamented in [《The Vanishing Moment》](/carpe-diem-en),
+Just like I lamented in [《The Vanishing Moment》](/en/posts/2017-10-26-carpe-diem-en/),
 I've never been able to fully accept the fact that "all men must die."
 
 With this Sword of Damocles hanging over my head,

@@ -1,7 +1,7 @@
 ---
 title: "Daily Life of HR and Programmer (III): Talent Development"
 date: 2021-09-09T22:00:38+08:00
-zhUrl: /limited-position
+translationKey: limited-position
 aliases:
   - /limited-position-en
 ---

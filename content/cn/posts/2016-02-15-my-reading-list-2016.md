@@ -1,6 +1,6 @@
 ---
 title:     "我的2016书单"
-enUrl: /my-reading-list-2016-en
+translationKey: my-reading-list-2016
 date:      "2016-02-15 11:07:57"
 aliases:
   - /my-reading-list-2016

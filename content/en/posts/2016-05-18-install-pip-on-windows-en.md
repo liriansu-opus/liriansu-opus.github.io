@@ -1,7 +1,7 @@
 ---
 title: "Installing pip on Windows"
 date: "2016-05-18 21:39:29"
-zhUrl: /install-pip-on-windows
+translationKey: install-pip-on-windows
 aliases:
   - /install-pip-on-windows-en
 ---
@@ -87,5 +87,5 @@ Finally we can use `python -m pip install` to install new modules.
 [path]:      /assets/python_path.jpg
 [get-pip]:   https://bootstrap.pypa.io/get-pip.py
 [pypa]:      https://pip.pypa.io/en/stable/installing/
-[vc-python]: https://www.microsoft.com/en-us/download/details.aspx?id=44266
+[vc-python]: https://web.archive.org/web/20210414074322/https://www.microsoft.com/en-us/download/details.aspx?id=44266
 [so]:        https://stackoverflow.com/questions/4750806/how-do-i-install-pip-on-windows

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 怎么写Bug
-enUrl: /how-to-write-bugs-en
+translationKey: how-to-write-bugs
 date: '2017-09-20 19:49:38'
 aliases:
   - /how-to-write-bugs
@@ -523,7 +523,7 @@ Bug都是人写的，
 
 [_本文思想仿《如何写出无法维护的代码》_][bad-code]
 
-[pareto]: /pareto-rule-of-programmers
+[pareto]: /posts/2017-07-25-pareto-rule-of-programmers/
 [bumblebee]: https://github.com/MrMEEE/bumblebee-Old-and-abbandoned/commit/a047be85247755cdbe0acce6#diff-1
 [bad-code]: https://coolshell.cn/articles/4758.html
 

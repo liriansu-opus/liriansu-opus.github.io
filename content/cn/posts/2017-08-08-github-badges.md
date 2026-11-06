@@ -1,6 +1,6 @@
 ---
 title:     "GitHub上的小标签有什么好玩的"
-enUrl: /github-badges-en
+translationKey: github-badges
 date:      "2017-08-08 23:10:01"
 aliases:
   - /github-badges
@@ -132,14 +132,14 @@ Travis 对开源项目免费，
 就算是[像靖哥哥一样只改改文档][doc-only-pr]，
 [混个 contributor 也行][contributor]啊~
 
-[jkzing]: https://www.jingkaizhao.com/
+[jkzing]: https://web.archive.org/web/20180805214312/http://jingkaizhao.com/
 [lowdb]: https://github.com/typicode/lowdb
 [tinydb]: https://tinydb.readthedocs.io/en/latest/intro.html
-[forgive-meme]: /forgive-her-meme
+[forgive-meme]: /posts/2017-07-02-forgive-her-meme/
 [forgivedb]: https://github.com/hui-z/ForgiveDB
 [readme]: /assets/pics/github/forgive.jpg
-[github]: /how-i-use-github
-[markdown]: /hrbp-and-markdown
+[github]: /posts/2017-07-18-how-i-use-github/
+[markdown]: /posts/2017-03-20-hrbp-and-markdown/
 [shields.io]: https://shields.io/
 [pypi]: https://pypi.python.org/pypi/forgive
 [pyup]: https://pyup.io/repos/github/hui-z/ForgiveDB/

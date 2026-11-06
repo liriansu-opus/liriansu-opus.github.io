@@ -1,7 +1,7 @@
 ---
 title: "Backend Engineer Skill Tree"
 date: '2016-12-16 23:33:08'
-zhUrl: /backend-skill-tree
+translationKey: backend-skill-tree
 aliases:
   - /backend-skill-tree-en
 layout: post

@@ -2,7 +2,7 @@
 layout: post
 title: "Humans Are So Stupid — South Park"
 date: '2017-08-05 19:29:14'
-zhUrl: /south-park-intro
+translationKey: south-park-intro
 aliases:
   - /south-park-intro-en
 ---

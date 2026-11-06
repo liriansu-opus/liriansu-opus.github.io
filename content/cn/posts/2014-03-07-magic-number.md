@@ -1,6 +1,6 @@
 ---
 title:     "0x5f3759df 一个神奇的数字"
-enUrl: /magic-number-en
+translationKey: magic-number
 date:      "2014-03-07 14:11:31"
 aliases:
   - /magic-number
@@ -72,7 +72,7 @@ float Q_rsqrt( float number )
 
 
 > 参考资料：
-> https://www.guokr.com/post/90718/
+> https://web.archive.org/web/20170811034732/http://www.guokr.com:80/post/90718/
 > https://www.matrix67.com/data/InvSqrt.pdf
 > https://www.matrix67.com/blog/archives/362
 > https://en.wikipedia.org/wiki/Fast_inverse_square_root

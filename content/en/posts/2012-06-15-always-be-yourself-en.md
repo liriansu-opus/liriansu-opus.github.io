@@ -1,7 +1,7 @@
 ---
 title: "Wanted to Write a Little Story, So I Just Wrote One"
 date: 2012-06-15T12:52:30+08:00
-zhUrl: /always-be-yourself
+translationKey: always-be-yourself
 aliases:
   - /always-be-yourself-en
 ---

@@ -1,6 +1,6 @@
 ---
 title:     "写代码怎么偷懒？我想想"
-enUrl: /lazy-coding-thinking-en
+translationKey: lazy-coding-thinking
 date:      "2017-08-30 23:10:52"
 aliases:
   - /lazy-coding-thinking

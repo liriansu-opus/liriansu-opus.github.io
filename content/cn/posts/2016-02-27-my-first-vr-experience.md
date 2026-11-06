@@ -1,6 +1,6 @@
 ---
 title:     "我的VR初体验"
-enUrl: /my-first-vr-experience-en
+translationKey: my-first-vr-experience
 date:      "2016-02-27 21:08:19"
 aliases:
   - /my-first-vr-experience
@@ -74,5 +74,5 @@ aliases:
 [vr-glasses]:    /assets/vr_glasses.jpg
 [vr-with-phone]: /assets/vr_with_phone.jpg
 [cardboard]:     https://play.google.com/store/apps/details?id=com.google.samples.apps.cardboarddemo
-[inmind-vr]:     https://play.google.com/store/apps/details?id=com.nivalvr.inmind
-[lost-kismet]:   https://play.google.com/store/apps/details?id=com.hihill.link
+[inmind-vr]:     https://web.archive.org/web/20231202081436/https://play.google.com/store/apps/details?id=com.nivalvr.inmind
+[lost-kismet]:   https://web.archive.org/web/20170304155624/https://play.google.com/store/apps/details?id=com.hihill.link

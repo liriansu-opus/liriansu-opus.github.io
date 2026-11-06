@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 用GitHub托管静态HTML页面
-enUrl: /hold-static-html-on-github-en
+translationKey: hold-static-html-on-github
 date: '2017-02-03 21:59:54'
 aliases:
   - /hold-static-html-on-github
@@ -51,7 +51,7 @@ $ git push -u origin gh-pages     # 推到GitHub服务器上
 可以参照[我的搭建方案][build-a-blog]
 
 
-[build-a-blog]:   /how-this-blog-was-built
+[build-a-blog]:   /posts/2015-09-24-how-this-blog-was-built/
 [lki-static]:     https://github.com/liriansu-opus/static
 [html-static]:    /static/
 [pages]:          https://pages.github.com/

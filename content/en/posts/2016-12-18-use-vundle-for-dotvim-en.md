@@ -1,7 +1,7 @@
 ---
 title: "Using Vundle to Manage Vim Plugins"
 date: "2016-12-18 02:22:16"
-zhUrl: /use-vundle-for-dotvim
+translationKey: use-vundle-for-dotvim
 aliases:
   - /use-vundle-for-dotvim-en
 ---
@@ -76,6 +76,6 @@ So **technical taste can't be the only criterion for evaluating technology~**
 
 [vundle]:          https://github.com/VundleVim/Vundle.vim
 [pathogen]:        https://github.com/tpope/vim-pathogen
-[dotvim-justin]:   https://github.com/LKI/dotvim
+[dotvim-justin]:   https://github.com/liriansu-opus/dotvim
 [tpope]:           https://github.com/tpope
-[dotvim]:          https://github.com/LKI/dotvim
+[dotvim]:          https://github.com/liriansu-opus/dotvim

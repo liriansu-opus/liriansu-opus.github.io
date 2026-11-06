@@ -1,7 +1,7 @@
 ---
 title: "Turns Out What I Like Are Leggings"
 date: "2017-07-30 18:24:30"
-zhUrl: /girls-stockings
+translationKey: girls-stockings
 aliases:
   - /girls-stockings-en
 ---

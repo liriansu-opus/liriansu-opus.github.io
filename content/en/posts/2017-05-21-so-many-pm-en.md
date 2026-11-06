@@ -1,7 +1,7 @@
 ---
 title: "I Also Finished Reading 'Everyone is a Product Manager 2.0'"
 date: "2017-05-21 00:18:14"
-zhUrl: /so-many-pm
+translationKey: so-many-pm
 aliases:
   - /so-many-pm-en
 ---
@@ -105,4 +105,4 @@ reading "Everyone is a Product Manager 2.0" did broaden my horizons a bit.
 But it'd be even better if everyone were a programmer XD
 
 [bad-code]: https://coolshell.cn/articles/4758.html
-[xyz]: /x-y-z-question-en
+[xyz]: /en/posts/2017-02-22-x-y-z-question-en/

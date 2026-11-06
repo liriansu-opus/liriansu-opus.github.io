@@ -1,6 +1,6 @@
 ---
 title:     "Pythonista 的 Go 之旅"
-enUrl: /go-experience-as-a-pythonista-en
+translationKey: go-experience-as-a-pythonista
 date:      "2019-06-13 01:10:49"
 aliases:
   - /go-experience-as-a-pythonista
@@ -334,4 +334,4 @@ Python 魔法般的开发速度还是无人能比的（叉腰）
 [golang-org]: https://golang.org/
 [gopher-emoji]: https://github.com/egonelbre/gophers/raw/master/.thumb/icon/emoji-3x.png
 [gopher]: https://github.com/egonelbre/gophers
-[se-django]: /software-engineering-django
+[se-django]: /posts/2019-04-10-software-engineering-django/

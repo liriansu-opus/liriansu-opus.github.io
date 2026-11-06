@@ -2,7 +2,7 @@
 layout: post
 title: "The Big Shots in My Eyes"
 date: '2017-09-16 16:07:46'
-zhUrl: /interesting-humans
+translationKey: interesting-humans
 aliases:
   - /interesting-humans-en
 ---
@@ -235,7 +235,7 @@ let me end by quoting one of Dizi's reflections:
 [my-zhihu]: https://www.zhihu.com/people/su-zi-yue-50/activities
 [so]: https://stackoverflow.com/
 [jeff]: https://blog.codinghorror.com/about-me/
-[read-blog]: /read-blogs-to-write-blogs-en
+[read-blog]: /en/posts/2016-02-29-read-blogs-to-write-blogs-en/
 [coding-horror]: https://blog.codinghorror.com/
 [name-of-coding-horror]: https://blog.codinghorror.com/on-the-meaning-of-coding-horror/
 [code-complete-cn]: https://book.douban.com/subject/1477390/
@@ -252,7 +252,7 @@ let me end by quoting one of Dizi's reflections:
 [caoz]: https://www.zhihu.com/people/cao-zheng/activities
 [tothegump]: https://www.zhihu.com/people/jia-jia-15-81
 [xiqiao]: https://blog.xiqiao.info/
-[huoju]: https://blog.devep.net/virushuo/
+[huoju]: https://web.archive.org/web/20230126231424/http://blog.devep.net/virushuo/
 [wechat-mactalk]: https://weixin.sogou.com/weixin?type=1&query=mactalkpro
 [wechat-tinyfool]: https://weixin.sogou.com/weixin?type=1&query=tiny4voice
 [wechat-angelatalk]: https://weixin.sogou.com/weixin?type=1&query=angelatalk
@@ -262,19 +262,19 @@ let me end by quoting one of Dizi's reflections:
 [fenng]: https://www.zhihu.com/people/fenng/activities
 [yin]: https://www.yinwang.org/
 [work-with-linux]: https://www.douban.com/group/topic/12121637/
-[microsoft-separation]: https://www.yinwang.org/blog-cn/2017/05/10/microsoft-separation
+[microsoft-separation]: https://web.archive.org/web/20180412061956/http://www.yinwang.org:80/blog-cn/2017/05/10/microsoft-separation
 [bo]: https://zhuanlan.zhihu.com/p/25031872
 [yin-pr]: https://www.zhihu.com/question/20102511
 [linux-eh]: https://www.douban.com/group/topic/44818003/
 [yin-ms]: https://www.zhihu.com/question/50128385
-[yin-strike]: https://www.yinwang.org/blog-cn/2017/04/11/strike
+[yin-strike]: https://web.archive.org/web/20251212221722/http://www.yinwang.org/blog-cn/2017/04/11/strike
 [kotlin-ce]: https://www.yinwang.org/blog-cn/2017/05/23/kotlin
 [ice1000]: https://www.zhihu.com/people/ice1000/activities
 [github-ice1000]: https://github.com/ice1000
 [highschool-ice1000]: https://www.zhihu.com/question/64427785
 [time-is-money]: https://www.zhihu.com/question/63691021
 [real-ice1000]: https://www.zhihu.com/question/57850781
-[i-like-coding]: /my-programmer-habits-en
+[i-like-coding]: /en/posts/2017-07-01-my-programmer-habits-en/
 [ocarina]: https://weibo.com/echohall?profile_ftype=1&is_all=1
 [uc-nothing]: https://www.u17.com/comic/16179.html
 [green-blue-life]: https://ac.qq.com/Comic/comicInfo/id/536332

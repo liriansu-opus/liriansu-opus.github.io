@@ -1,6 +1,6 @@
 ---
 title: "杂思丨屁股决定脑袋"
-enUrl: /thoughts-from-position-en
+translationKey: thoughts-from-position
 date: 2022-09-26T20:00:36+08:00
 aliases:
   - /thoughts-from-position
@@ -141,5 +141,5 @@ aliases:
 
 （完）
 
-[say-think-behave]: /say-think-behave
-[2018-okr]: /my-2018-okr
+[say-think-behave]: /posts/2021-03-15-say-think-behave/
+[2018-okr]: /posts/2018-01-25-my-2018-okr/

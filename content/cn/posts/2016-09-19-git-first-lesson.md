@@ -1,6 +1,6 @@
 ---
 title:     "git新手教程"
-enUrl: /git-first-lesson-en
+translationKey: git-first-lesson
 date:      "2016-09-19 16:04:00"
 aliases:
   - /git-first-lesson

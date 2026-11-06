@@ -1,7 +1,7 @@
 ---
 title: "Thoughts After Watching 《The Wandering Earth》"
 date: "2019-02-06 13:45:34"
-zhUrl: /wandering-earth
+translationKey: wandering-earth
 aliases:
   - /wandering-earth-en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Elegant Python API Design"
 date: "2018-09-21 20:57:46"
-zhUrl: /api-design-in-python
+translationKey: api-design-in-python
 aliases:
   - /api-design-in-python-en
 ---

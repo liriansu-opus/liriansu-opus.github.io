@@ -1,7 +1,7 @@
 ---
 title: "A Lightweight HTTP Authentication Method: Hawk"
 date: "2017-03-18 23:55:18"
-zhUrl: /hawk-authentication
+translationKey: hawk-authentication
 aliases:
   - /hawk-authentication-en
 ---

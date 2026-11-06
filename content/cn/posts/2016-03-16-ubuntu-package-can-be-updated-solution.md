@@ -2,7 +2,7 @@
 layout: post
 title: Ubuntu系统X packages can be updated的解决方案
 date: '2016-03-16 16:14:19'
-enUrl: /ubuntu-package-can-be-updated-solution-en
+translationKey: ubuntu-package-can-be-updated-solution
 aliases:
   - /ubuntu-package-can-be-updated-solution
 comments:
@@ -81,5 +81,5 @@ Ubuntu系统里，MOTD的脚本默认放在`/etc/update-motd.d`下，
 
 2. 系统一开始显示的Message叫[MOTD][motd]，默认放在`/etc/update-motd.d`下。
 
-[dist-upgrade]: https://ubuntuforums.org/showthread.php?t=1222909
+[dist-upgrade]: https://web.archive.org/web/20250122102722/https://ubuntuforums.org/showthread.php?t=1222909
 [motd]: https://en.wikipedia.org/wiki/Motd_(Unix)

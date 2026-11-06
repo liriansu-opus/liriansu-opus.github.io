@@ -1,7 +1,7 @@
 ---
 title: "The One-Centimeter Power"
 date: 2020-11-11T20:53:43+08:00
-zhUrl: /ownership
+translationKey: ownership
 aliases:
   - /ownership-en
 ---

@@ -1,6 +1,6 @@
 ---
 title:     "技术人员要怎么选择自己的职业发展道路"
-enUrl: /company-stategy-en
+translationKey: company-stategy
 date:      "2018-10-25 23:35:26"
 aliases:
   - /company-stategy
@@ -20,7 +20,7 @@ aliases:
 
 于是我秉承着车到山前必有路的快乐心态，
 去了第一家给我发 offer 的公司。
-（结果工作出人预料地鱼块，详情参见[《前文》](/adult-life)）
+（结果工作出人预料地鱼块，详情参见[《前文》](/posts/2018-09-09-adult-life/)）
 
 如今的我再回头去审视这种青涩的想法，
 我最大的感慨是：

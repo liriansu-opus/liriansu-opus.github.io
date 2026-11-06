@@ -1,7 +1,7 @@
 ---
 title: "Why I Hate Smoking"
 date: "2016-03-31 16:27:34"
-zhUrl: /why-i-hate-smoking
+translationKey: why-i-hate-smoking
 aliases:
   - /why-i-hate-smoking-en
 ---
@@ -101,9 +101,9 @@ I hope everyone can live longer.
 Hope the world gets better and better.
 
 
-[chinese-cigarette]: https://www.pubu.com.tw/ebook/-%E4%B8%AD%E5%9C%8B%E7%85%99%E8%8D%89%E7%9A%84%E6%94%BF%E6%B2%BB%E7%89%88%E5%9C%96-23518
+[chinese-cigarette]: https://web.archive.org/web/20230108032233/https://www.pubu.com.tw/ebook/-%E4%B8%AD%E5%9C%8B%E7%85%99%E8%8D%89%E7%9A%84%E6%94%BF%E6%B2%BB%E7%89%88%E5%9C%96-23518
 [smoking-zhihu]: /assets/smoking_zhihu.jpg
 [smoking-reddit]: /assets/smoking_reddit.jpg
-[reading-plan]: /my-reading-list-2016-en
+[reading-plan]: /en/posts/2016-02-15-my-reading-list-2016-en/
 [death]: /assets/smoke_to_death.jpg
 [bad]: /assets/smoking_bad.jpg

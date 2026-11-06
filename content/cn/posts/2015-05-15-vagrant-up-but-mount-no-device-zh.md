@@ -1,7 +1,7 @@
 ---
 title:     "Vagrant-up遇到mount no device的解决方案"
 date:      2015-05-15 10:29:05
-enUrl:     /vagrant-up-but-mount-no-device-en
+translationKey: vagrant-up-but-mount-no-device-zh
 aliases:
   - /vagrant-up-but-mount-no-device-zh
 ---

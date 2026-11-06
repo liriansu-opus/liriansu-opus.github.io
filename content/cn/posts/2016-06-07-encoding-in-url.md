@@ -1,6 +1,6 @@
 ---
 title:     "URL中参数编码不正确的解决方案"
-enUrl: /encoding-in-url-en
+translationKey: encoding-in-url
 date:      "2016-06-07 21:29:39"
 aliases:
   - /encoding-in-url

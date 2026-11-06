@@ -1,7 +1,7 @@
 ---
 title: "Writing Programs and Picking Names"
 date: "2017-06-24 19:36:17"
-zhUrl: /naming-variable
+translationKey: naming-variable
 aliases:
   - /naming-variable-en
 ---

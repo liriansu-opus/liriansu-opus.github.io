@@ -1,7 +1,7 @@
 ---
 title: "I Might Have Read a Fake Tech Book"
 date: "2017-04-22 01:48:05"
-zhUrl: /how-google-works-note
+translationKey: how-google-works-note
 aliases:
   - /how-google-works-note-en
 ---

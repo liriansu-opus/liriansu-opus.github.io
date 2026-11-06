@@ -1,7 +1,7 @@
 ---
 layout: post
 title: disqus不稳定，于是我开始用commentit了
-enUrl: /use-commentit-en
+translationKey: use-commentit
 date: '2016-12-22 20:20:07'
 aliases:
   - /use-commentit
@@ -151,9 +151,9 @@ disqus的便利之处在于构建简单，
 以成为[本博客GitHub项目的Contributor啦~][contributors]
 
 [disqus]:               https://disqus.com/
-[built-blog]:           /how-this-blog-was-built
+[built-blog]:           /posts/2015-09-24-how-this-blog-was-built/
 [disqus-template]:      https://github.com/liriansu-opus/liriansu-opus.github.io/blob/b1c59b15a83fe0e0c9c2af55b15e1d3fa107c551/_includes/comments.html
-[duoshuo]:              https://duoshuo.com/
+[duoshuo]:              https://web.archive.org/web/20170321004852/http://duoshuo.com/
 [commentit]:            https://commentit.io/getting-started
 [commentit-template]:   https://github.com/liriansu-opus/liriansu-opus.github.io/blob/eb8e55e54fafc4effeeed8ed24ddae142829372b/_includes/comments.html
 [commentit-config]:     https://commentit.io/settings?master=true&group=true

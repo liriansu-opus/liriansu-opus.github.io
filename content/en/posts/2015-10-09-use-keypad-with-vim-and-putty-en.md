@@ -1,7 +1,7 @@
 ---
 title:     "Solution for Broken Numpad in VIM (Putty)"
 date:      2015-10-09 15:34:16
-zhUrl: /use-keypad-with-vim-and-putty
+translationKey: use-keypad-with-vim-and-putty
 aliases:
   - /use-keypad-with-vim-and-putty-en
 ---

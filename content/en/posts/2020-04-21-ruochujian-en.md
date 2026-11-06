@@ -1,7 +1,7 @@
 ---
 title: "Ruo Chujian and Wu Jianguo"
 date: 2020-04-21T21:37:59+08:00
-zhUrl: /2020-04-21-ruochujian
+translationKey: 2020-04-21-ruochujian
 aliases:
   - /2020-04-21-ruochujian-en
 ---

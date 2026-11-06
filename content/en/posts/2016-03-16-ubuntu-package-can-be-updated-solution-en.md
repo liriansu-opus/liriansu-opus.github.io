@@ -1,7 +1,7 @@
 ---
 title:     "Solution to X packages can be updated in Ubuntu"
 date:      "2016-03-16 16:40:11"
-zhUrl:     /ubuntu-package-can-be-updated-solution
+translationKey: ubuntu-package-can-be-updated-solution
 aliases:
   - /ubuntu-package-can-be-updated-solution-en
 ---
@@ -69,5 +69,5 @@ We can also customize our MOTD.
 
 2. We have [MOTD][motd] for displaying message when log in, which is put under `/etc/update-motd.d`.
 
-[dist-upgrade]: https://ubuntuforums.org/showthread.php?t=1222909
+[dist-upgrade]: https://web.archive.org/web/20250122102722/https://ubuntuforums.org/showthread.php?t=1222909
 [motd]: https://en.wikipedia.org/wiki/Motd_(Unix)

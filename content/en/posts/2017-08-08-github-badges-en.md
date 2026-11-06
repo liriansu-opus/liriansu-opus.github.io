@@ -1,7 +1,7 @@
 ---
 title: "What's Fun About Those Little Badges on GitHub"
 date: "2017-08-08 23:10:01"
-zhUrl: /github-badges
+translationKey: github-badges
 aliases:
   - /github-badges-en
 ---
@@ -132,14 +132,14 @@ is just like picking pretty keycaps for the keyboard you love.
 Even if you [just edit the docs like Brother Jing][doc-only-pr],
 [mixing in a contributor mention is fine][contributor]~
 
-[jkzing]: https://www.jingkaizhao.com/
+[jkzing]: https://web.archive.org/web/20180805214312/http://jingkaizhao.com/
 [lowdb]: https://github.com/typicode/lowdb
 [tinydb]: https://tinydb.readthedocs.io/en/latest/intro.html
-[forgive-meme]: /forgive-her-meme-en
+[forgive-meme]: /en/posts/2017-07-02-forgive-her-meme-en/
 [forgivedb]: https://github.com/hui-z/ForgiveDB
 [readme]: /assets/pics/github/forgive.jpg
-[github]: /how-i-use-github-en
-[markdown]: /hrbp-and-markdown-en
+[github]: /en/posts/2017-07-18-how-i-use-github-en/
+[markdown]: /en/posts/2017-03-20-hrbp-and-markdown-en/
 [shields.io]: https://shields.io/
 [pypi]: https://pypi.python.org/pypi/forgive
 [pyup]: https://pyup.io/repos/github/hui-z/ForgiveDB/

@@ -1,6 +1,6 @@
 ---
 title:     "原来我喜欢的是打底裤"
-enUrl: /girls-stockings-en
+translationKey: girls-stockings
 date:      "2017-07-30 18:24:30"
 aliases:
   - /girls-stockings

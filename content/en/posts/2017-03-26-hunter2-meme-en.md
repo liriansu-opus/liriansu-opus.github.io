@@ -1,7 +1,7 @@
 ---
 title: "What's the hunter2 meme"
 date: "2017-03-26 23:58:26"
-zhUrl: /hunter2-meme
+translationKey: hunter2-meme
 aliases:
   - /hunter2-meme-en
 ---
@@ -76,7 +76,7 @@ And some websites limit the password length to be very short...
 ╮(╯▽╰)╭ If, next to the website's login box,
 they could write down the password rules they originally required at registration, that would be nice.
 
-[weakest-password]: https://blog.keepersecurity.com/2017/01/13/most-common-passwords-of-2016-research-study/
+[weakest-password]: https://web.archive.org/web/20180126080035/https://blog.keepersecurity.com/2017/01/13/most-common-passwords-of-2016-research-study/
 [password-rank-on-leak]: https://36kr.com/p/5038663.html
 [hunter2]: https://bash.org/?244321
 [hunter2-img]: /assets/hunter2.jpg

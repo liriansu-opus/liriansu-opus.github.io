@@ -1,7 +1,7 @@
 ---
 title:     "Comparing Two Excel Files with Openpyxl"
 date:      2014-08-28 10:31:08
-zhUrl: /compare-excel-using-openpyxl
+translationKey: compare-excel-using-openpyxl
 aliases:
   - /compare-excel-using-openpyxl-en
 ---
@@ -52,5 +52,5 @@ You can find my version in the PythonScripts I wrote:
 
 [4toolForPythonExcel]:https://www.gocalf.com/blog/python-read-write-excel.html
 [Openpyxl]:https://pythonhosted.org/openpyxl/
-[OpenpyxlTutorial]:https://pythonhosted.org/openpyxl/tutorial.html
-[ExcelComparer]:https://github.com/LKI/PythonScripts/tree/master/ExcelComparer
+[OpenpyxlTutorial]:https://web.archive.org/web/20130216171541/http://pythonhosted.org:80/openpyxl/tutorial.html
+[ExcelComparer]:https://github.com/liriansu-opus/PythonScripts/tree/master/ExcelComparer

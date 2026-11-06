@@ -2,7 +2,7 @@
 layout: post
 title: "A Bit of My OCD"
 date: '2018-05-07 22:07:44'
-zhUrl: /my-coding-ocd
+translationKey: my-coding-ocd
 aliases:
   - /my-coding-ocd-en
 ---

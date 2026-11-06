@@ -1,7 +1,7 @@
 ---
 title: "Hosting Static HTML Pages on GitHub"
 date: '2017-02-03 21:59:54'
-zhUrl: /hold-static-html-on-github
+translationKey: hold-static-html-on-github
 aliases:
   - /hold-static-html-on-github-en
 layout: post
@@ -51,8 +51,8 @@ Finally, if you want to build a personal blog on GitHub,
 you can refer to [my setup approach][build-a-blog]
 
 
-[build-a-blog]:   /how-this-blog-was-built-en
-[lki-static]:     https://github.com/LKI/static
+[build-a-blog]:   /en/posts/2015-09-24-how-this-blog-was-built-en/
+[lki-static]:     https://github.com/liriansu-opus/static
 [html-static]:    /static/
 [pages]:          https://pages.github.com/
 [create-repo]:    https://github.com/new

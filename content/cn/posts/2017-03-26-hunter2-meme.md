@@ -1,6 +1,6 @@
 ---
 title:     "hunter2是什么梗"
-enUrl: /hunter2-meme-en
+translationKey: hunter2-meme
 date:      "2017-03-26 23:58:26"
 aliases:
   - /hunter2-meme
@@ -76,7 +76,7 @@ aliases:
 ╮(╯▽╰)╭ 假如网站登录框旁边，
 能把他们当初注册的密码条件写上就好了。
 
-[weakest-password]: https://blog.keepersecurity.com/2017/01/13/most-common-passwords-of-2016-research-study/
+[weakest-password]: https://web.archive.org/web/20180126080035/https://blog.keepersecurity.com/2017/01/13/most-common-passwords-of-2016-research-study/
 [password-rank-on-leak]: https://36kr.com/p/5038663.html
 [hunter2]: https://bash.org/?244321
 [hunter2-img]: /assets/hunter2.jpg

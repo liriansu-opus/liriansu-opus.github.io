@@ -1,7 +1,7 @@
 ---
 title: "Creating a GitHub Project Page"
 date: "2016-03-15 21:19:53"
-zhUrl: /create-github-repository-page
+translationKey: create-github-repository-page
 aliases:
   - /create-github-repository-page-en
 ---
@@ -58,11 +58,11 @@ So we can create a new branch to map [the menu][git-mymenu] to [/mymenu][mymenu]
 
 3. Unless it's a brilliant hack, pursue best practice.
 
-[build-blog]: /how-this-blog-was-built-en
-[lki-github]: https://github.com/LKI/lki.github.io
-[git-submodule]: https://github.com/LKI/lki.github.io/commit/86d73353e4b8f93ea7e759fb0d2f47b5d9ad8904
+[build-blog]: /en/posts/2015-09-24-how-this-blog-was-built-en/
+[lki-github]: https://github.com/liriansu-opus/liriansu-opus.github.io
+[git-submodule]: https://github.com/liriansu-opus/liriansu-opus.github.io/commit/86d73353e4b8f93ea7e759fb0d2f47b5d9ad8904
 [remove-submodule]: https://stackoverflow.com/questions/1260748/how-do-i-remove-a-submodule
 [zhangwenli]: https://zhangwenli.com/
 [issue3]: https://github.com/Ovilia/cv/issues/3
-[git-mymenu]: https://github.com/LKI/mymenu
-[mymenu]: /mymenu-en
+[git-mymenu]: https://github.com/liriansu-opus/mymenu
+[mymenu]: /mymenu/

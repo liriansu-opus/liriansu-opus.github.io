@@ -1,7 +1,7 @@
 ---
 title: "HR Hates Tech People Like Us — We Haven't Sent Out a Single Offer This Year"
 date: '2017-03-08 20:44:40'
-zhUrl: /what-a-hard-backend-interview
+translationKey: what-a-hard-backend-interview
 aliases:
   - /what-a-hard-backend-interview-en
 layout: post

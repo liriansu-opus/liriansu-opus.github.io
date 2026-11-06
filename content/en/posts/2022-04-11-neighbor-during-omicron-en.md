@@ -1,7 +1,7 @@
 ---
 title: "The Neighbor Who Shouted Thirteen Times for Supplies"
 date: 2022-04-11T20:39:47+08:00
-zhUrl: /neighbor-during-omicron
+translationKey: neighbor-during-omicron
 aliases:
   - /neighbor-during-omicron-en
 ---

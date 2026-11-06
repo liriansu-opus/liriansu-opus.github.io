@@ -1,6 +1,6 @@
 ---
 title: "毕业五年的报告之回忆"
-enUrl: /adult-life-memories-en
+translationKey: adult-life-memories
 date: 2020-07-05T21:46:03+08:00
 aliases:
   - /adult-life-memories
@@ -253,5 +253,5 @@ hulucc 给了我许多不亚于 rick&morty 给我的启发。
 
 （未完待续）
 
-[adult-life]: /adult-life/
-[hr]: /what-a-hard-backend-interview
+[adult-life]: /posts/2018-09-09-adult-life/
+[hr]: /posts/2017-03-08-what-a-hard-backend-interview/

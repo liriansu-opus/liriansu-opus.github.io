@@ -1,7 +1,7 @@
 ---
 title: "How I Implemented \"Playing GBA Games with Danmaku\""
 date: "2018-01-06 18:58:33"
-zhUrl: /play-gba-with-danmaku
+translationKey: play-gba-with-danmaku
 aliases:
   - /play-gba-with-danmaku-en
 ---
@@ -291,7 +291,7 @@ _Screenshot during the livestream_
 [shengfangsong]: https://www.zhihu.com/question/27088840
 [lisp]: https://www.douyu.com/lisp
 [vim-bilibili]: https://github.com/feisuzhu/vim-bilibili-live
-[play-github]: /how-i-use-github-en
+[play-github]: /en/posts/2017-07-18-how-i-use-github-en/
 [danmu]: https://github.com/littlecodersh/danmu
 [roomid]: https://github.com/littlecodersh/danmu/blob/master/danmu/Bilibili.py
 [zhihu-douyu-danmu]: https://www.zhihu.com/question/29027665
@@ -300,6 +300,6 @@ _Screenshot during the livestream_
 [py-bot]: https://code.tutsplus.com/tutorials/how-to-build-a-python-bot-that-can-play-web-games--active-11117
 [keyboard]: https://github.com/boppreh/keyboard
 [pywin32-install]: https://stackoverflow.com/questions/4863056/how-to-install-pywin32-module-in-windows-7
-[danmaboy]: https://github.com/LKI/danmaboy
-[init.py]: https://github.com/LKI/danmaboy/blob/master/danmaboy/__init__.py
+[danmaboy]: https://github.com/liriansu-opus/danmaboy
+[init.py]: https://github.com/liriansu-opus/danmaboy/blob/master/danmaboy/__init__.py
 [screen]: /assets/pics/screen.png

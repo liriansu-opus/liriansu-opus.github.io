@@ -1,7 +1,7 @@
 ---
 title:     "Differences Between Virtual Machine, Vagrant, and Docker"
 date:      2015-10-12 12:49:55
-zhUrl: /virtual-machine-vs-vagrant-vs-docker
+translationKey: virtual-machine-vs-vagrant-vs-docker
 aliases:
   - /virtual-machine-vs-vagrant-vs-docker-en
 ---

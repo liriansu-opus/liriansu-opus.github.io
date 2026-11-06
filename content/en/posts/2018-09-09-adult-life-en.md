@@ -2,7 +2,7 @@
 layout: post
 title: "Three Years After Graduation Report"
 date: '2018-09-09 19:46:37'
-zhUrl: /adult-life
+translationKey: adult-life
 aliases:
   - /adult-life-en
 ---
@@ -45,7 +45,7 @@ couldn't grind for grad school and also wanted to apply learning sooner,
 so I went with the plan to find an internship,
 then convert to a full-time job after graduation.
 
-At that time [QAD (an American-funded multinational software company)](lazy-coding-thinking-en) came to our school for campus recruitment,
+At that time [QAD (an American-funded multinational software company)](/en/posts/2017-08-30-lazy-coding-thinking-en/) came to our school for campus recruitment,
 so I went and interviewed.
 The process was written test + group interview + individual interview,
 extremely similar to NIMO (Shanghai Jiao Tong University Network Management Department)'s interview process.
@@ -429,9 +429,9 @@ having uncommon influence over ordinary programmers, guiding them to become exce
 and still struggling on the frontline today.
 
 Inspired by blogs like this,
-I also decided to [start my own blog](/why-im-blogging-en).
+I also decided to [start my own blog](/en/posts/2015-09-23-why-im-blogging-en/).
 But at first I didn't have much to write,
-so I [listed some bug-solving workflows](/vagrant-up-but-mount-no-device-en)...
+so I [listed some bug-solving workflows](/en/posts/2015-05-15-vagrant-up-but-mount-no-device-en/)...
 
 In the process of writing blogs, I discovered this is a great path to progress:
 writing blogs not only urges me to "make new daily, daily make new, again make new,"
@@ -678,8 +678,8 @@ excellent people will take off like Rock Lee unbuckled his weights.
 ### Life-related
 
 Work content at Zaihui I actually wrote many other articles to talk about, like:
-[《My Work》](/my-work-en)
-[《Why I Like Engineer Culture》](/engineer-culture-en)
+[《My Work》](/en/posts/2017-06-11-my-work-en/)
+[《Why I Like Engineer Culture》](/en/posts/2018-07-26-engineer-culture-en/)
 won't elaborate too much.
 
 The job-change node has another meaning for me,
@@ -696,7 +696,7 @@ either listen to girlfriend talk about HR's career and various crap,
 or talk to girlfriend about engineer's development planning and various crap.
 
 But thinking about it,
-about girlfriend I've also specially written [《My Girlfriend Little Mia》](/my-little-mia-en),
+about girlfriend I've also specially written [《My Girlfriend Little Mia》](/en/posts/2018-01-13-my-little-mia-en/),
 not much special to say.
 
 Sigh, the troubles of high output.

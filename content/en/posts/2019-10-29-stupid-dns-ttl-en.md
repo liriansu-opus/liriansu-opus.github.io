@@ -1,7 +1,7 @@
 ---
 title: "Yep, the DNS TTL field is lying to you"
 date:      "2019-10-29 21:49:42"
-zhUrl: /stupid-dns-ttl
+translationKey: stupid-dns-ttl
 aliases:
   - /stupid-dns-ttl-en
 ---
@@ -134,5 +134,5 @@ and the wisdom of distributed systems.
 (End)
 
 [dns-ttl-violation]: https://labs.ripe.net/Members/giovane_moura/dns-ttl-violations-in-the-wild-with-ripe-atlas-2
-[component-verify-ticket]: https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/Authorization_Process_Technical_Description.html
+[component-verify-ticket]: https://web.archive.org/web/20260607214144/https://developers.weixin.qq.com/doc/oplatform/Third-party_Platforms/Authorization_Process_Technical_Description.html
 [state-manage]: https://mailarchive.ietf.org/arch/msg/dnsop/zRuuXkwmklMHFvl_Qqzn2N0SOGY/?qid=ff8e732c964b76fed3bbf333b89b111f

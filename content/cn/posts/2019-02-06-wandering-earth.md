@@ -1,6 +1,6 @@
 ---
 title:     "《流浪地球》电影观感"
-enUrl: /wandering-earth-en
+translationKey: wandering-earth
 date:      "2019-02-06 13:45:34"
 aliases:
   - /wandering-earth

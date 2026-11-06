@@ -1,7 +1,7 @@
 ---
 title: "Thoughts from Attending QCon 2018 Day One Morning"
 date: "2018-10-18 18:54:24"
-zhUrl: /qcon-2018-shanghai
+translationKey: qcon-2018-shanghai
 aliases:
   - /qcon-2018-shanghai-en
 ---
@@ -53,7 +53,7 @@ Then Jonathan used specific examples interspersed to explain his understanding o
 
 Listening through I felt removing the specific syntax examples,
 outstanding APIs share common qualities,
-just like in the previously written [《Elegant Python API Design》](/api-design-in-python-en).
+just like in the previously written [《Elegant Python API Design》](/en/posts/2018-09-21-api-design-in-python-en/).
 
 Finally Jonathan hyped <Effective Java> again,
 and forcefully promoted: "Those of you who've only read the second edition, remember to buy the third edition and read it..."

@@ -1,7 +1,7 @@
 ---
 title: "How to Be Lazy When Writing Code? Let Me Think"
 date: "2017-08-30 23:10:52"
-zhUrl: /lazy-coding-thinking
+translationKey: lazy-coding-thinking
 aliases:
   - /lazy-coding-thinking-en
 ---

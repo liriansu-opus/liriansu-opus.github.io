@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Git的理念
-enUrl: /philosophy-of-git-en
+translationKey: philosophy-of-git
 date: '2018-02-10 16:01:31'
 aliases:
   - /philosophy-of-git

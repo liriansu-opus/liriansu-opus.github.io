@@ -2,7 +2,7 @@
 layout: post
 title: "The Lianjia Guy Asked Me: I Heard If You Train in IT for Three Months You Can Make Over Ten Thousand a Month, Is That True?"
 date: '2018-03-12 23:22:10'
-zhUrl: /is-it-possible-to-be-rich-easily-by-programming
+translationKey: is-it-possible-to-be-rich-easily-by-programming
 aliases:
   - /is-it-possible-to-be-rich-easily-by-programming-en
 ---

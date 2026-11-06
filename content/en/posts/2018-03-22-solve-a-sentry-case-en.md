@@ -2,7 +2,7 @@
 layout: post
 title: "Case Cracked: The Sentry Mystery"
 date: '2018-03-22 20:14:08'
-zhUrl: /solve-a-sentry-case
+translationKey: solve-a-sentry-case
 aliases:
   - /solve-a-sentry-case-en
 ---

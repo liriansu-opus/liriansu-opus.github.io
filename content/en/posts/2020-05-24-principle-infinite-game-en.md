@@ -1,7 +1,7 @@
 ---
 title: "[Principle] Always On The Way"
 date: 2020-05-24T22:02:34+08:00
-zhUrl: /principle-infinite-game
+translationKey: principle-infinite-game
 aliases:
   - /principle-infinite-game-en
 ---
@@ -156,7 +156,7 @@ is just this kind of principle.
 
 (End)
 
-[engineer-culture]: /engineer-culture-en
-[developer-team]: /developer-team-en
+[engineer-culture]: /en/posts/2018-07-26-engineer-culture-en/
+[developer-team]: /en/posts/2019-01-28-developer-team-en/
 [zhihu-debt]: https://www.zhihu.com/question/320279757
-[adult]: /adult-life-en
+[adult]: /en/posts/2018-09-09-adult-life-en/

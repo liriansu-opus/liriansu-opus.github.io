@@ -1,6 +1,6 @@
 ---
 title:     "用Openpyxl做两个Excel文件的比对"
-enUrl: /compare-excel-using-openpyxl-en
+translationKey: compare-excel-using-openpyxl
 date:      2014-08-28 10:31:08
 aliases:
   - /compare-excel-using-openpyxl
@@ -52,5 +52,5 @@ Openpyxl还有个弊端就是文档不怎么详细，只能去翻源码。
 
 [4toolForPythonExcel]:https://www.gocalf.com/blog/python-read-write-excel.html
 [Openpyxl]:https://pythonhosted.org/openpyxl/
-[OpenpyxlTutorial]:https://pythonhosted.org/openpyxl/tutorial.html
+[OpenpyxlTutorial]:https://web.archive.org/web/20130216171541/http://pythonhosted.org:80/openpyxl/tutorial.html
 [ExcelComparer]:https://github.com/liriansu-opus/PythonScripts/tree/master/ExcelComparer

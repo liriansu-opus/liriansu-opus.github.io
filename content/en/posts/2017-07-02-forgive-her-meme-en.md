@@ -1,7 +1,7 @@
 ---
 title: "What's the 'Of Course We Forgive Her' Meme"
 date: "2017-07-02 23:05:08"
-zhUrl: /forgive-her-meme
+translationKey: forgive-her-meme
 aliases:
   - /forgive-her-meme-en
 ---

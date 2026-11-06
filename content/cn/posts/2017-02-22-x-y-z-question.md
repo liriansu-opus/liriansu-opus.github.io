@@ -1,6 +1,6 @@
 ---
 title:     "XYZ问题"
-enUrl: /x-y-z-question-en
+translationKey: x-y-z-question
 date:      "2017-02-22 22:22:16"
 aliases:
   - /x-y-z-question

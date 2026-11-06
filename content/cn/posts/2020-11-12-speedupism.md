@@ -1,6 +1,6 @@
 ---
 title: "对加速主义保持清晰认知"
-enUrl: /speedupism-en
+translationKey: speedupism
 date: 2020-11-12T21:44:34+08:00
 aliases:
   - /speedupism
@@ -139,4 +139,4 @@ aliases:
 
 （完）
 
-[feminist]: /fight-with-the-feminist-me
+[feminist]: /posts/2015-08-27-fight-with-the-feminist-me/

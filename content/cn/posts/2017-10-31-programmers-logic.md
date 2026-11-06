@@ -1,6 +1,6 @@
 ---
 title:     "程序员之逻辑"
-enUrl: /programmers-logic-en
+translationKey: programmers-logic
 date:      "2017-10-31 22:05:35"
 aliases:
   - /programmers-logic
@@ -228,9 +228,9 @@ aliases:
 [local-optima]: https://en.wikipedia.org/wiki/Local_optimum
 [meme]: https://en.wikipedia.org/wiki/Meme
 [combo]: /assets/pics/meme/moe_combo.png
-[stockings]: /girls-stockings
-[cashcow]: /what-is-cash-cow
-[pronunciations]: /pronunciations
-[smoking]: /why-i-hate-smoking
+[stockings]: /posts/2017-07-30-girls-stockings/
+[cashcow]: /posts/2017-07-27-what-is-cash-cow/
+[pronunciations]: /posts/2017-05-12-pronunciations/
+[smoking]: /posts/2016-03-31-why-i-hate-smoking/
 [fermat]: https://en.wikipedia.org/wiki/Fermat%27s_Last_Theorem
 

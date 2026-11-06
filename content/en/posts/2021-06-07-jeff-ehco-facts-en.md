@@ -1,7 +1,7 @@
 ---
 title: "Jeff Ehco Facts"
 date: 2021-06-07T22:07:09+08:00
-zhUrl: /jeff-ehco-facts
+translationKey: jeff-ehco-facts
 aliases:
   - /jeff-ehco-facts-en
 ---

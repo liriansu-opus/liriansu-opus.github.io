@@ -1,7 +1,7 @@
 ---
 title: "Software Engineering Practice: Subnet Management"
 date: 2020-12-13T21:48:22+08:00
-zhUrl: /software-engineering-vpc
+translationKey: software-engineering-vpc
 aliases:
   - /software-engineering-vpc-en
 ---

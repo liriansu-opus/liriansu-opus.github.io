@@ -1,7 +1,7 @@
 ---
 title: "One Year of Cycling"
 date: 2023-10-16T20:09:04+08:00
-zhUrl: /cycling
+translationKey: cycling
 aliases:
   - /cycling-en
 ---

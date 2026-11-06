@@ -1,6 +1,6 @@
 ---
 title: "搭建一个不需要自己开服务器的纯静态博客"
-enUrl: /build-a-staic-blog-en
+translationKey: build-a-staic-blog
 date: 2019-11-19T01:00:07+08:00
 aliases:
   - /build-a-staic-blog
@@ -194,7 +194,7 @@ hugo server -D
 
 
 [commentit]: https://github.com/jillro/commentit
-[lki-build-jekyll]: /how-this-blog-was-built
+[lki-build-jekyll]: /posts/2015-09-24-how-this-blog-was-built/
 [hugo]: https://gohugo.io/
 [hugo-install]: https://gohugo.io/getting-started/installing
 [hugo-quickstart]: https://gohugo.io/getting-started/quick-start/

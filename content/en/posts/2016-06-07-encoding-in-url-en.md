@@ -1,7 +1,7 @@
 ---
 title: "Solution for Incorrect Parameter Encoding in URLs"
 date: "2016-06-07 21:29:39"
-zhUrl: /encoding-in-url
+translationKey: encoding-in-url
 aliases:
   - /encoding-in-url-en
 ---

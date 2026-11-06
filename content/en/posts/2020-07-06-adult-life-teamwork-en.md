@@ -1,7 +1,7 @@
 ---
 title: "Five Years After Graduation: Team"
 date: 2020-07-06T23:45:13+08:00
-zhUrl: /adult-life-teamwork
+translationKey: adult-life-teamwork
 aliases:
   - /adult-life-teamwork-en
 ---

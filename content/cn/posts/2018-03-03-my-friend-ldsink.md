@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 我的好友柳宁宁
-enUrl: /my-friend-ldsink-en
+translationKey: my-friend-ldsink
 date: '2018-03-03 20:39:48'
 aliases:
   - /my-friend-ldsink
@@ -236,6 +236,6 @@ Sink对应他的名字。
 
 这就是我的好友，柳宁宁。
 
-[py3]: /py2-to-py3
+[py3]: /posts/2017-08-06-py2-to-py3/
 [toolbox]: https://github.com/ldsink/toolbox
 

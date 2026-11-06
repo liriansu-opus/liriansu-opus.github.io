@@ -1,7 +1,7 @@
 ---
 title:     "How to Elegantly Use Perl's Constant Module"
 date:      2015-07-25 20:56:06
-zhUrl: /how-to-set-perl-constant-module
+translationKey: how-to-set-perl-constant-module
 aliases:
   - /how-to-set-perl-constant-module-en
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Data Warehouse Solution: A Guide to Getting Started with RedShift"
 date: "2017-09-08 22:59:08"
-zhUrl: /redshift-as-data-warehouse
+translationKey: redshift-as-data-warehouse
 aliases:
   - /redshift-as-data-warehouse-en
 ---
@@ -207,7 +207,7 @@ Little Xie thought.
 * [Xiqiao - Historical Tragedy - https://blog.xiqiao.info/2013/01/14/1366][utf8-enough]
 
 
-[cash-cow]: /what-is-cash-cow-en
+[cash-cow]: /en/posts/2017-07-27-what-is-cash-cow-en/
 [aws-redshift]: https://docs.aws.amazon.com/zh_cn/redshift/latest/dg/tutorial-tuning-tables.html
 [coolshell-12306]: https://coolshell.cn/articles/6470.html
 [wiki-dw]: https://en.wikipedia.org/wiki/Data_warehouse

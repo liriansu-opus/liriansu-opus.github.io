@@ -1,7 +1,7 @@
 ---
 title: "Daily Life of an HR and a Programmer (One): HRBP and Markdown"
 date: "2017-03-20 01:49:00"
-zhUrl: /hrbp-and-markdown
+translationKey: hrbp-and-markdown
 aliases:
   - /hrbp-and-markdown-en
 ---

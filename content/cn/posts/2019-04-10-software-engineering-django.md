@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 软件工程实践之 django/python
-enUrl: /software-engineering-django-en
+translationKey: software-engineering-django
 date: '2019-04-10 22:09:55'
 aliases:
   - /software-engineering-django
@@ -298,9 +298,9 @@ aws 的负载均衡器提供了基础的流量切换服务，
 [hax-principles]: /assets/pics/se/hax_principles.png
 [zhihu-dev-process]: https://www.zhihu.com/question/300762444/answer/529335326
 [gitlab-ci-sample]: /assets/pics/se/gitlab_ci_sample.png
-[python-deployment]: /python-deployment-automation-one-sample
+[python-deployment]: /posts/2017-11-23-python-deployment-automation-one-sample/
 [gitlab-pr-sample]: /assets/pics/se/gitlab_pr_sample.png
-[python-dependency]: https://ldsink.com/archives/the-future-of-python-dependency-management/
+[python-dependency]: https://web.archive.org/web/20190310164919/https://ldsink.com/archives/the-future-of-python-dependency-management/
 [gitlab-ci-deploy]: /assets/pics/se/gitlab_ci_deploy.png
 [reddit]: https://github.com/reddit-archive/reddit
 [sentry]: https://github.com/getsentry/sentry
